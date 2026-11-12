@@ -1,0 +1,9 @@
+{
+  "scope": "本任务根目录JSON工作文本；仅检查列明的凭据模式，不是所有敏感信息检测",
+  "matches": [],
+  "patterns": [
+    "\\bsk-[A-Za-z0-9_-]{20,}\\b",
+    "-----BEGIN (?:RSA |OPENSSH |EC )?PRIVATE KEY-----",
+    "gh[pousr]_[A-Za-z0-9]{30,}"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "date": "2026-10-06",
+  "public_inventory": 45,
+  "unique_ids": 45,
+  "pages_read": 45,
+  "original_videos": 45,
+  "full_timeline_text_sampling": 45,
+  "decoded_frames": 8644,
+  "ocr_engine_errors": 0,
+  "narrative_analysis_cards": 45,
+  "source_bytes": 431412595,
+  "method": "本机逐视频解码，稳定1秒全屏取帧OCR，必要字幕带补读和画面核对；非音频全文转写",
+  "limits": [
+    "不保证1秒内短字幕或无字幕音频完整",
+    "OCR错误码0不是字词识别准确率100%",
+    "视频或评论中的客户与效果为作者自述，未查合同收款",
+    "标题和章节摘要不替代原片；已据原片纠正四店案例归属"
+  ],
+  "source_files": [
+    "作品目录.json",
+    "页面读取记录.json",
+    "清单与范围.json",
+    "逐条分析资料库.json"
+  ]
+}

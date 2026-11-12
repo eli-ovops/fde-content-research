@@ -1,0 +1,4412 @@
+{
+  "id": "7683783312204651193",
+  "url": "https://www.douyin.com/video/7683783312204651193",
+  "source": "/Users/USER/Downloads/download (5).mp4",
+  "sample_interval": 0.5,
+  "coverage": "全时段画面文字采样，不是音频逐字稿；短于采样间隔的文字可能遗漏",
+  "frame_count": 1148,
+  "rows": [
+    {
+      "time": 0.5,
+      "text": "ERROR: OCR failed for /var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/fde-video-frames-pp7h1q21/frame-000002.jpg: e5rtError(\"e5rt_execution_stream_operation_create_precompiled_compute_operation_with_options call failed\", 13)"
+    },
+    {
+      "time": 1.0,
+      "text": "ERROR: OCR failed for /var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/fde-video-frames-pp7h1q21/frame-000003.jpg: e5rtError(\"e5rt_execution_stream_operation_create_precompiled_compute_operation_with_options call failed\", 13)"
+    },
+    {
+      "time": 1.5,
+      "text": "ERROR: OCR failed for /var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/fde-video-frames-pp7h1q21/frame-000004.jpg: e5rtError(\"e5rt_execution_stream_operation_create_precompiled_compute_operation_with_options call failed\", 13)"
+    },
+    {
+      "time": 2.0,
+      "text": "ERROR: OCR failed for /var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/fde-video-frames-pp7h1q21/frame-000005.jpg: e5rtError(\"e5rt_execution_stream_operation_create_precompiled_compute_operation_with_options call failed\", 13)"
+    },
+    {
+      "time": 2.5,
+      "text": "ERROR: OCR failed for /var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/fde-video-frames-pp7h1q21/frame-000006.jpg: e5rtError(\"e5rt_execution_stream_operation_create_precompiled_compute_operation_with_options call failed\", 13)"
+    },
+    {
+      "time": 3.0,
+      "text": "ERROR: OCR failed for /var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/fde-video-frames-pp7h1q21/frame-000007.jpg: e5rtError(\"e5rt_execution_stream_operation_create_precompiled_compute_operation_with_options call failed\", 13)"
+    },
+    {
+      "time": 3.5,
+      "text": "ERROR: OCR failed for /var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/fde-video-frames-pp7h1q21/frame-000008.jpg: e5rtError(\"e5rt_execution_stream_operation_create_precompiled_compute_operation_with_options call failed\", 13)"
+    },
+    {
+      "time": 4.0,
+      "text": "ERROR: OCR failed for /var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/fde-video-frames-pp7h1q21/frame-000009.jpg: e5rtError(\"e5rt_execution_stream_operation_create_precompiled_compute_operation_with_options call failed\", 13)"
+    },
+    {
+      "time": 4.5,
+      "text": "ERROR: OCR failed for /var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/fde-video-frames-pp7h1q21/frame-000010.jpg: e5rtError(\"e5rt_execution_stream_operation_create_precompiled_compute_operation_with_options call failed\", 13)"
+    },
+    {
+      "time": 5.0,
+      "text": "ERROR: OCR failed for /var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/fde-video-frames-pp7h1q21/frame-000011.jpg: e5rtError(\"e5rt_execution_stream_operation_create_precompiled_compute_operation_with_options call failed\", 13)"
+    },
+    {
+      "time": 5.5,
+      "text": "ERROR: OCR failed for /var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/fde-video-frames-pp7h1q21/frame-000012.jpg: e5rtError(\"e5rt_execution_stream_operation_create_precompiled_compute_operation_with_options call failed\", 13)"
+    },
+    {
+      "time": 6.0,
+      "text": "ERROR: OCR failed for /var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/fde-video-frames-pp7h1q21/frame-000013.jpg: e5rtError(\"e5rt_execution_stream_operation_create_precompiled_compute_operation_with_options call failed\", 13)"
+    },
+    {
+      "time": 6.5,
+      "text": "ERROR: OCR failed for /var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/fde-video-frames-pp7h1q21/frame-000014.jpg: e5rtError(\"e5rt_execution_stream_operation_create_precompiled_compute_operation_with_options call failed\", 13)"
+    },
+    {
+      "time": 7.0,
+      "text": "ERROR: OCR failed for /var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/fde-video-frames-pp7h1q21/frame-000015.jpg: e5rtError(\"e5rt_execution_stream_operation_create_precompiled_compute_operation_with_options call failed\", 13)"
+    },
+    {
+      "time": 7.5,
+      "text": "ERROR: OCR failed for /var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/fde-video-frames-pp7h1q21/frame-000016.jpg: e5rtError(\"e5rt_execution_stream_operation_create_precompiled_compute_operation_with_options call failed\", 13)"
+    },
+    {
+      "time": 8.0,
+      "text": "ERROR: OCR failed for /var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/fde-video-frames-pp7h1q21/frame-000017.jpg: e5rtError(\"e5rt_execution_stream_operation_create_precompiled_compute_operation_with_options call failed\", 13)"
+    },
+    {
+      "time": 8.5,
+      "text": "ERROR: OCR failed for /var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/fde-video-frames-pp7h1q21/frame-000018.jpg: e5rtError(\"e5rt_execution_stream_operation_create_precompiled_compute_operation_with_options call failed\", 13)"
+    },
+    {
+      "time": 9.0,
+      "text": "ERROR: OCR failed for /var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/fde-video-frames-pp7h1q21/frame-000019.jpg: e5rtError(\"e5rt_execution_stream_operation_create_precompiled_compute_operation_with_options call failed\", 13)"
+    },
+    {
+      "time": 9.5,
+      "text": "ERROR: OCR failed for /var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/fde-video-frames-pp7h1q21/frame-000020.jpg: e5rtError(\"e5rt_execution_stream_operation_create_precompiled_compute_operation_with_options call failed\", 13)"
+    },
+    {
+      "time": 10.0,
+      "text": "ERROR: OCR failed for /var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/fde-video-frames-pp7h1q21/frame-000021.jpg: e5rtError(\"e5rt_execution_stream_operation_create_precompiled_compute_operation_with_options call failed\", 13)"
+    },
+    {
+      "time": 10.5,
+      "text": "ERROR: OCR failed for /var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/fde-video-frames-pp7h1q21/frame-000022.jpg: e5rtError(\"e5rt_execution_stream_operation_create_precompiled_compute_operation_with_options call failed\", 13)"
+    },
+    {
+      "time": 11.0,
+      "text": "ERROR: OCR failed for /var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/fde-video-frames-pp7h1q21/frame-000023.jpg: e5rtError(\"e5rt_execution_stream_operation_create_precompiled_compute_operation_with_options call failed\", 13)"
+    },
+    {
+      "time": 11.5,
+      "text": "ERROR: OCR failed for /var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/fde-video-frames-pp7h1q21/frame-000024.jpg: e5rtError(\"e5rt_execution_stream_operation_create_precompiled_compute_operation_with_options call failed\", 13)"
+    },
+    {
+      "time": 12.5,
+      "text": "你们老板在吗"
+    },
+    {
+      "time": 13.0,
+      "text": "你们老板在吗，"
+    },
+    {
+      "time": 13.5,
+      "text": ""
+    },
+    {
+      "time": 14.0,
+      "text": ""
+    },
+    {
+      "time": 14.5,
+      "text": ""
+    },
+    {
+      "time": 15.0,
+      "text": ""
+    },
+    {
+      "time": 15.5,
+      "text": ""
+    },
+    {
+      "time": 16.0,
+      "text": ""
+    },
+    {
+      "time": 16.5,
+      "text": ""
+    },
+    {
+      "time": 17.0,
+      "text": "我我是做AI创业的"
+    },
+    {
+      "time": 17.5,
+      "text": "我我是做AI创业飽"
+    },
+    {
+      "time": 18.0,
+      "text": "我我是做A创业的"
+    },
+    {
+      "time": 18.5,
+      "text": "可以跟你们老板交流一下吗"
+    },
+    {
+      "time": 19.0,
+      "text": "可以跟你们老板交流一下吗"
+    },
+    {
+      "time": 19.5,
+      "text": "可以跟你们老板交流一下吗"
+    },
+    {
+      "time": 20.0,
+      "text": "可以跟你们老板交流一下吗"
+    },
+    {
+      "time": 20.5,
+      "text": ""
+    },
+    {
+      "time": 21.0,
+      "text": ""
+    },
+    {
+      "time": 21.5,
+      "text": ""
+    },
+    {
+      "time": 22.0,
+      "text": "在里面"
+    },
+    {
+      "time": 22.5,
+      "text": ""
+    },
+    {
+      "time": 23.0,
+      "text": ""
+    },
+    {
+      "time": 23.5,
+      "text": ""
+    },
+    {
+      "time": 24.5,
+      "text": "呃老板你好"
+    },
+    {
+      "time": 25.0,
+      "text": "呃老板你好"
+    },
+    {
+      "time": 25.5,
+      "text": ""
+    },
+    {
+      "time": 26.0,
+      "text": "不用AI"
+    },
+    {
+      "time": 26.5,
+      "text": ""
+    },
+    {
+      "time": 27.0,
+      "text": "你们不用AI"
+    },
+    {
+      "time": 27.5,
+      "text": "你AI工具有没有在用"
+    },
+    {
+      "time": 28.0,
+      "text": "你AI工具有没有在用"
+    },
+    {
+      "time": 28.5,
+      "text": "你AI工具有没有在用"
+    },
+    {
+      "time": 29.0,
+      "text": ""
+    },
+    {
+      "time": 29.5,
+      "text": "我们AI工具用的也很少"
+    },
+    {
+      "time": 30.0,
+      "text": "我们A工具用的也很少"
+    },
+    {
+      "time": 30.5,
+      "text": "我们AI工具用的也很少"
+    },
+    {
+      "time": 31.0,
+      "text": ""
+    },
+    {
+      "time": 31.5,
+      "text": "我们AI工具用的也很少"
+    },
+    {
+      "time": 32.0,
+      "text": "就现在国内比较火的workburdtdy什么"
+    },
+    {
+      "time": 32.5,
+      "text": "就现在国内比较火的workbuddy什么的"
+    },
+    {
+      "time": 33.0,
+      "text": "就现在国内比较火的werkbuddy什么的"
+    },
+    {
+      "time": 33.5,
+      "text": "就现在国内比较火的workbuddy什么"
+    },
+    {
+      "time": 34.0,
+      "text": "就现在国内比较火的werkbuddy什么的"
+    },
+    {
+      "time": 34.5,
+      "text": "就是交流一下"
+    },
+    {
+      "time": 35.0,
+      "text": "就是交流一"
+    },
+    {
+      "time": 35.5,
+      "text": ""
+    },
+    {
+      "time": 36.5,
+      "text": ""
+    },
+    {
+      "time": 37.0,
+      "text": "你们就是"
+    },
+    {
+      "time": 37.5,
+      "text": "你们就是"
+    },
+    {
+      "time": 38.0,
+      "text": ""
+    },
+    {
+      "time": 38.5,
+      "text": ""
+    },
+    {
+      "time": 39.0,
+      "text": ""
+    },
+    {
+      "time": 39.5,
+      "text": "您您您现在平时豆包有没有在用呢"
+    },
+    {
+      "time": 40.0,
+      "text": "您您您现在平时豆包有没有在用呢"
+    },
+    {
+      "time": 40.5,
+      "text": "您您您现在平时豆包有没有在用呢"
+    },
+    {
+      "time": 41.0,
+      "text": "您您您现在平时豆包有没有在用呢"
+    },
+    {
+      "time": 41.5,
+      "text": "您您您现在平时豆包有没有在用呢"
+    },
+    {
+      "time": 42.0,
+      "text": "也都不用的"
+    },
+    {
+      "time": 42.5,
+      "text": "ERROR: OCR failed for /var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/fde-video-frames-pp7h1q21/frame-000086.jpg: e5rtError(\"e5rt_execution_stream_operation_create_precompiled_compute_operation_with_options call failed\", 13)"
+    },
+    {
+      "time": 43.0,
+      "text": "ERROR: OCR failed for /var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/fde-video-frames-pp7h1q21/frame-000087.jpg: e5rtError(\"e5rt_execution_stream_operation_create_precompiled_compute_operation_with_options call failed\", 13)"
+    },
+    {
+      "time": 43.5,
+      "text": "ERROR: OCR failed for /var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/fde-video-frames-pp7h1q21/frame-000088.jpg: e5rtError(\"e5rt_execution_stream_operation_create_precompiled_compute_operation_with_options call failed\", 13)"
+    },
+    {
+      "time": 44.0,
+      "text": "ERROR: OCR failed for /var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/fde-video-frames-pp7h1q21/frame-000089.jpg: e5rtError(\"e5rt_execution_stream_operation_create_precompiled_compute_operation_with_options call failed\", 13)"
+    },
+    {
+      "time": 44.5,
+      "text": "ERROR: OCR failed for /var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/fde-video-frames-pp7h1q21/frame-000090.jpg: e5rtError(\"e5rt_execution_stream_operation_create_precompiled_compute_operation_with_options call failed\", 13)"
+    },
+    {
+      "time": 45.0,
+      "text": "ERROR: OCR failed for /var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/fde-video-frames-pp7h1q21/frame-000091.jpg: e5rtError(\"e5rt_execution_stream_operation_create_precompiled_compute_operation_with_options call failed\", 13)"
+    },
+    {
+      "time": 45.5,
+      "text": "ERROR: OCR failed for /var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/fde-video-frames-pp7h1q21/frame-000092.jpg: e5rtError(\"e5rt_execution_stream_operation_create_precompiled_compute_operation_with_options call failed\", 13)"
+    },
+    {
+      "time": 46.0,
+      "text": "ERROR: OCR failed for /var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/fde-video-frames-pp7h1q21/frame-000093.jpg: e5rtError(\"e5rt_execution_stream_operation_create_precompiled_compute_operation_with_options call failed\", 13)"
+    },
+    {
+      "time": 46.5,
+      "text": "ERROR: OCR failed for /var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/fde-video-frames-pp7h1q21/frame-000094.jpg: e5rtError(\"e5rt_execution_stream_operation_create_precompiled_compute_operation_with_options call failed\", 13)"
+    },
+    {
+      "time": 47.0,
+      "text": "ERROR: OCR failed for /var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/fde-video-frames-pp7h1q21/frame-000095.jpg: e5rtError(\"e5rt_execution_stream_operation_create_precompiled_compute_operation_with_options call failed\", 13)"
+    },
+    {
+      "time": 47.5,
+      "text": "ERROR: OCR failed for /var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/fde-video-frames-pp7h1q21/frame-000096.jpg: e5rtError(\"e5rt_execution_stream_operation_create_precompiled_compute_operation_with_options call failed\", 13)"
+    },
+    {
+      "time": 48.5,
+      "text": "ERROR: OCR failed for /var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/fde-video-frames-pp7h1q21/frame-000098.jpg: e5rtError(\"e5rt_execution_stream_operation_create_precompiled_compute_operation_with_options call failed\", 13)"
+    },
+    {
+      "time": 49.0,
+      "text": "ERROR: OCR failed for /var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/fde-video-frames-pp7h1q21/frame-000099.jpg: e5rtError(\"e5rt_execution_stream_operation_create_precompiled_compute_operation_with_options call failed\", 13)"
+    },
+    {
+      "time": 49.5,
+      "text": "ERROR: OCR failed for /var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/fde-video-frames-pp7h1q21/frame-000100.jpg: e5rtError(\"e5rt_execution_stream_operation_create_precompiled_compute_operation_with_options call failed\", 13)"
+    },
+    {
+      "time": 50.0,
+      "text": "ERROR: OCR failed for /var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/fde-video-frames-pp7h1q21/frame-000101.jpg: e5rtError(\"e5rt_execution_stream_operation_create_precompiled_compute_operation_with_options call failed\", 13)"
+    },
+    {
+      "time": 50.5,
+      "text": "ERROR: OCR failed for /var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/fde-video-frames-pp7h1q21/frame-000102.jpg: e5rtError(\"e5rt_execution_stream_operation_create_precompiled_compute_operation_with_options call failed\", 13)"
+    },
+    {
+      "time": 51.0,
+      "text": "ERROR: OCR failed for /var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/fde-video-frames-pp7h1q21/frame-000103.jpg: e5rtError(\"e5rt_execution_stream_operation_create_precompiled_compute_operation_with_options call failed\", 13)"
+    },
+    {
+      "time": 51.5,
+      "text": "ERROR: OCR failed for /var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/fde-video-frames-pp7h1q21/frame-000104.jpg: e5rtError(\"e5rt_execution_stream_operation_create_precompiled_compute_operation_with_options call failed\", 13)"
+    },
+    {
+      "time": 52.0,
+      "text": "ERROR: OCR failed for /var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/fde-video-frames-pp7h1q21/frame-000105.jpg: e5rtError(\"e5rt_execution_stream_operation_create_precompiled_compute_operation_with_options call failed\", 13)"
+    },
+    {
+      "time": 52.5,
+      "text": "ERROR: OCR failed for /var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/fde-video-frames-pp7h1q21/frame-000106.jpg: e5rtError(\"e5rt_execution_stream_operation_create_precompiled_compute_operation_with_options call failed\", 13)"
+    },
+    {
+      "time": 53.0,
+      "text": "ERROR: OCR failed for /var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/fde-video-frames-pp7h1q21/frame-000107.jpg: e5rtError(\"e5rt_execution_stream_operation_create_precompiled_compute_operation_with_options call failed\", 13)"
+    },
+    {
+      "time": 53.5,
+      "text": "ERROR: OCR failed for /var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/fde-video-frames-pp7h1q21/frame-000108.jpg: e5rtError(\"e5rt_execution_stream_operation_create_precompiled_compute_operation_with_options call failed\", 13)"
+    },
+    {
+      "time": 54.0,
+      "text": "ERROR: OCR failed for /var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/fde-video-frames-pp7h1q21/frame-000109.jpg: e5rtError(\"e5rt_execution_stream_operation_create_precompiled_compute_operation_with_options call failed\", 13)"
+    },
+    {
+      "time": 54.5,
+      "text": "ERROR: OCR failed for /var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/fde-video-frames-pp7h1q21/frame-000110.jpg: e5rtError(\"e5rt_execution_stream_operation_create_precompiled_compute_operation_with_options call failed\", 13)"
+    },
+    {
+      "time": 55.0,
+      "text": "ERROR: OCR failed for /var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/fde-video-frames-pp7h1q21/frame-000111.jpg: e5rtError(\"e5rt_execution_stream_operation_create_precompiled_compute_operation_with_options call failed\", 13)"
+    },
+    {
+      "time": 55.5,
+      "text": "ERROR: OCR failed for /var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/fde-video-frames-pp7h1q21/frame-000112.jpg: e5rtError(\"e5rt_execution_stream_operation_create_precompiled_compute_operation_with_options call failed\", 13)"
+    },
+    {
+      "time": 56.0,
+      "text": "ERROR: OCR failed for /var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/fde-video-frames-pp7h1q21/frame-000113.jpg: e5rtError(\"e5rt_execution_stream_operation_create_precompiled_compute_operation_with_options call failed\", 13)"
+    },
+    {
+      "time": 56.5,
+      "text": "ERROR: OCR failed for /var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/fde-video-frames-pp7h1q21/frame-000114.jpg: e5rtError(\"e5rt_execution_stream_operation_create_precompiled_compute_operation_with_options call failed\", 13)"
+    },
+    {
+      "time": 57.0,
+      "text": "ERROR: OCR failed for /var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/fde-video-frames-pp7h1q21/frame-000115.jpg: e5rtError(\"e5rt_execution_stream_operation_create_precompiled_compute_operation_with_options call failed\", 13)"
+    },
+    {
+      "time": 57.5,
+      "text": "ERROR: OCR failed for /var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/fde-video-frames-pp7h1q21/frame-000116.jpg: e5rtError(\"e5rt_execution_stream_operation_create_precompiled_compute_operation_with_options call failed\", 13)"
+    },
+    {
+      "time": 58.0,
+      "text": "ERROR: OCR failed for /var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/fde-video-frames-pp7h1q21/frame-000117.jpg: e5rtError(\"e5rt_execution_stream_operation_create_precompiled_compute_operation_with_options call failed\", 13)"
+    },
+    {
+      "time": 58.5,
+      "text": "ERROR: OCR failed for /var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/fde-video-frames-pp7h1q21/frame-000118.jpg: e5rtError(\"e5rt_execution_stream_operation_create_precompiled_compute_operation_with_options call failed\", 13)"
+    },
+    {
+      "time": 59.0,
+      "text": "ERROR: OCR failed for /var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/fde-video-frames-pp7h1q21/frame-000119.jpg: e5rtError(\"e5rt_execution_stream_operation_create_precompiled_compute_operation_with_options call failed\", 13)"
+    },
+    {
+      "time": 59.5,
+      "text": "ERROR: OCR failed for /var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/fde-video-frames-pp7h1q21/frame-000120.jpg: e5rtError(\"e5rt_execution_stream_operation_create_precompiled_compute_operation_with_options call failed\", 13)"
+    },
+    {
+      "time": 60.5,
+      "text": "现在也是个节点其实"
+    },
+    {
+      "time": 61.0,
+      "text": "现在也是个节点其实"
+    },
+    {
+      "time": 61.5,
+      "text": "现在也是个节点其实"
+    },
+    {
+      "time": 62.0,
+      "text": ""
+    },
+    {
+      "time": 62.5,
+      "text": ""
+    },
+    {
+      "time": 63.0,
+      "text": "目前的其实\nftes"
+    },
+    {
+      "time": 63.5,
+      "text": "目前的其实"
+    },
+    {
+      "time": 64.0,
+      "text": "不太需要"
+    },
+    {
+      "time": 64.5,
+      "text": "我们觉得这东西在我们这地方不太"
+    },
+    {
+      "time": 65.0,
+      "text": "我们觉得这东西在我们这地方不太"
+    },
+    {
+      "time": 65.5,
+      "text": "我们觉得这东西在我们这地方不太"
+    },
+    {
+      "time": 66.0,
+      "text": "我们觉得这东西在我们这地方不太"
+    },
+    {
+      "time": 66.5,
+      "text": "我们觉得这东西在我们这地方不太"
+    },
+    {
+      "time": 67.0,
+      "text": ""
+    },
+    {
+      "time": 67.5,
+      "text": "您说不太落地是吧"
+    },
+    {
+      "time": 68.0,
+      "text": "您说不太落地是吧"
+    },
+    {
+      "time": 68.5,
+      "text": "您说不太落地是吧"
+    },
+    {
+      "time": 69.0,
+      "text": "对"
+    },
+    {
+      "time": 69.5,
+      "text": "对"
+    },
+    {
+      "time": 70.0,
+      "text": "但Codex其实在电商"
+    },
+    {
+      "time": 70.5,
+      "text": "但Codex其实在电商"
+    },
+    {
+      "time": 71.0,
+      "text": "但Codex其实在电商"
+    },
+    {
+      "time": 71.5,
+      "text": "领域已经比较那个了"
+    },
+    {
+      "time": 72.5,
+      "text": "领域已经比较那个了"
+    },
+    {
+      "time": 73.0,
+      "text": "但对我们来说没什么"
+    },
+    {
+      "time": 73.5,
+      "text": "但对我们来说没什么"
+    },
+    {
+      "time": 74.0,
+      "text": "但对我们来说没什么"
+    },
+    {
+      "time": 74.5,
+      "text": "您是就是做国内电商是吧"
+    },
+    {
+      "time": 75.0,
+      "text": "您是就是做国内电商是吧"
+    },
+    {
+      "time": 75.5,
+      "text": "您是就是做国内电商是吧"
+    },
+    {
+      "time": 76.0,
+      "text": "您是就是做国内电商是吧"
+    },
+    {
+      "time": 76.5,
+      "text": "您是就是做国内电商是吧"
+    },
+    {
+      "time": 77.0,
+      "text": "不是"
+    },
+    {
+      "time": 77.5,
+      "text": "不是"
+    },
+    {
+      "time": 78.0,
+      "text": ""
+    },
+    {
+      "time": 78.5,
+      "text": "啊不是做电商"
+    },
+    {
+      "time": 79.0,
+      "text": "啊不是做电商"
+    },
+    {
+      "time": 79.5,
+      "text": "对"
+    },
+    {
+      "time": 80.0,
+      "text": "啊做外贸是吗"
+    },
+    {
+      "time": 80.5,
+      "text": "啊做外贸是吗"
+    },
+    {
+      "time": 81.0,
+      "text": "对"
+    },
+    {
+      "time": 81.5,
+      "text": "哦但外贸的话"
+    },
+    {
+      "time": 82.0,
+      "text": "哦但外贸的话"
+    },
+    {
+      "time": 82.5,
+      "text": "哦但外贸的话\ntactkir cariae"
+    },
+    {
+      "time": 83.0,
+      "text": "它不是有很多数据都可以"
+    },
+    {
+      "time": 83.5,
+      "text": "它不是有很多数据都可以"
+    },
+    {
+      "time": 84.5,
+      "text": "我们不需要\nwius upim"
+    },
+    {
+      "time": 85.0,
+      "text": "我们不需要"
+    },
+    {
+      "time": 85.5,
+      "text": "我们主要还是要靠人工"
+    },
+    {
+      "time": 86.0,
+      "text": "我们主要还是要靠人工"
+    },
+    {
+      "time": 86.5,
+      "text": "我们主要还是要靠人工\nhutkin seften"
+    },
+    {
+      "time": 87.0,
+      "text": ""
+    },
+    {
+      "time": 87.5,
+      "text": "因为还AI还没有这么好"
+    },
+    {
+      "time": 88.0,
+      "text": "因为还Al还没有这么好"
+    },
+    {
+      "time": 88.5,
+      "text": "因为还Al还没有这么好\nGrkin cofrra！"
+    },
+    {
+      "time": 89.0,
+      "text": "因为还AI还没有这么好\nwntotre"
+    },
+    {
+      "time": 89.5,
+      "text": "因为还AI还没有这么好"
+    },
+    {
+      "time": 90.0,
+      "text": "其实也不是取代人工是"
+    },
+    {
+      "time": 90.5,
+      "text": "其实也不是取代人工是"
+    },
+    {
+      "time": 91.0,
+      "text": "其实也不是取代人工是"
+    },
+    {
+      "time": 91.5,
+      "text": ""
+    },
+    {
+      "time": 92.0,
+      "text": "您的工作方面"
+    },
+    {
+      "time": 92.5,
+      "text": "您的工作方面"
+    },
+    {
+      "time": 93.0,
+      "text": "它可以用AI去帮你提效"
+    },
+    {
+      "time": 93.5,
+      "text": "它可以用AI去帮你提效"
+    },
+    {
+      "time": 94.0,
+      "text": "它可以用AI去帮你提效\nwejior tnfior"
+    },
+    {
+      "time": 94.5,
+      "text": "然后抓取一些数据\nklr rotler"
+    },
+    {
+      "time": 95.0,
+      "text": "然后抓取一些数据\nwwincote"
+    },
+    {
+      "time": 95.5,
+      "text": ""
+    },
+    {
+      "time": 96.5,
+      "text": "然后您作为老板\nferkin satler"
+    },
+    {
+      "time": 97.0,
+      "text": "我们数据量很少\nTeekir cofired"
+    },
+    {
+      "time": 97.5,
+      "text": "我们数据量很少\ntuskin coffer"
+    },
+    {
+      "time": 98.0,
+      "text": "我们主要靠人人去辨别\nfushin eeree"
+    },
+    {
+      "time": 98.5,
+      "text": "我们主要靠人人去辨别"
+    },
+    {
+      "time": 99.0,
+      "text": "ERROR: OCR failed for /var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/fde-video-frames-pp7h1q21/frame-000199.jpg: e5rtError(\"e5rt_execution_stream_operation_create_precompiled_compute_operation_with_options call failed\", 13)"
+    },
+    {
+      "time": 99.5,
+      "text": "ERROR: OCR failed for /var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/fde-video-frames-pp7h1q21/frame-000200.jpg: e5rtError(\"e5rt_execution_stream_operation_create_precompiled_compute_operation_with_options call failed\", 13)"
+    },
+    {
+      "time": 100.0,
+      "text": "ERROR: OCR failed for /var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/fde-video-frames-pp7h1q21/frame-000201.jpg: e5rtError(\"e5rt_execution_stream_operation_create_precompiled_compute_operation_with_options call failed\", 13)"
+    },
+    {
+      "time": 100.5,
+      "text": "ERROR: OCR failed for /var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/fde-video-frames-pp7h1q21/frame-000202.jpg: e5rtError(\"e5rt_execution_stream_operation_create_precompiled_compute_operation_with_options call failed\", 13)"
+    },
+    {
+      "time": 101.0,
+      "text": "ERROR: OCR failed for /var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/fde-video-frames-pp7h1q21/frame-000203.jpg: e5rtError(\"e5rt_execution_stream_operation_create_precompiled_compute_operation_with_options call failed\", 13)"
+    },
+    {
+      "time": 101.5,
+      "text": "ERROR: OCR failed for /var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/fde-video-frames-pp7h1q21/frame-000204.jpg: e5rtError(\"e5rt_execution_stream_operation_create_precompiled_compute_operation_with_options call failed\", 13)"
+    },
+    {
+      "time": 102.0,
+      "text": "ERROR: OCR failed for /var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/fde-video-frames-pp7h1q21/frame-000205.jpg: e5rtError(\"e5rt_execution_stream_operation_create_precompiled_compute_operation_with_options call failed\", 13)"
+    },
+    {
+      "time": 102.5,
+      "text": "ERROR: OCR failed for /var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/fde-video-frames-pp7h1q21/frame-000206.jpg: e5rtError(\"e5rt_execution_stream_operation_create_precompiled_compute_operation_with_options call failed\", 13)"
+    },
+    {
+      "time": 103.0,
+      "text": "ERROR: OCR failed for /var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/fde-video-frames-pp7h1q21/frame-000207.jpg: e5rtError(\"e5rt_execution_stream_operation_create_precompiled_compute_operation_with_options call failed\", 13)"
+    },
+    {
+      "time": 103.5,
+      "text": "ERROR: OCR failed for /var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/fde-video-frames-pp7h1q21/frame-000208.jpg: e5rtError(\"e5rt_execution_stream_operation_create_precompiled_compute_operation_with_options call failed\", 13)"
+    },
+    {
+      "time": 104.0,
+      "text": "ERROR: OCR failed for /var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/fde-video-frames-pp7h1q21/frame-000209.jpg: e5rtError(\"e5rt_execution_stream_operation_create_precompiled_compute_operation_with_options call failed\", 13)"
+    },
+    {
+      "time": 104.5,
+      "text": "ERROR: OCR failed for /var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/fde-video-frames-pp7h1q21/frame-000210.jpg: e5rtError(\"e5rt_execution_stream_operation_create_precompiled_compute_operation_with_options call failed\", 13)"
+    },
+    {
+      "time": 105.0,
+      "text": "ERROR: OCR failed for /var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/fde-video-frames-pp7h1q21/frame-000211.jpg: e5rtError(\"e5rt_execution_stream_operation_create_precompiled_compute_operation_with_options call failed\", 13)"
+    },
+    {
+      "time": 105.5,
+      "text": "ERROR: OCR failed for /var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/fde-video-frames-pp7h1q21/frame-000212.jpg: e5rtError(\"e5rt_execution_stream_operation_create_precompiled_compute_operation_with_options call failed\", 13)"
+    },
+    {
+      "time": 106.0,
+      "text": "ERROR: OCR failed for /var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/fde-video-frames-pp7h1q21/frame-000213.jpg: e5rtError(\"e5rt_execution_stream_operation_create_precompiled_compute_operation_with_options call failed\", 13)"
+    },
+    {
+      "time": 106.5,
+      "text": "ERROR: OCR failed for /var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/fde-video-frames-pp7h1q21/frame-000214.jpg: e5rtError(\"e5rt_execution_stream_operation_create_precompiled_compute_operation_with_options call failed\", 13)"
+    },
+    {
+      "time": 107.0,
+      "text": "ERROR: OCR failed for /var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/fde-video-frames-pp7h1q21/frame-000215.jpg: e5rtError(\"e5rt_execution_stream_operation_create_precompiled_compute_operation_with_options call failed\", 13)"
+    },
+    {
+      "time": 107.5,
+      "text": "ERROR: OCR failed for /var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/fde-video-frames-pp7h1q21/frame-000216.jpg: e5rtError(\"e5rt_execution_stream_operation_create_precompiled_compute_operation_with_options call failed\", 13)"
+    },
+    {
+      "time": 108.5,
+      "text": "ERROR: OCR failed for /var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/fde-video-frames-pp7h1q21/frame-000218.jpg: e5rtError(\"e5rt_execution_stream_operation_create_precompiled_compute_operation_with_options call failed\", 13)"
+    },
+    {
+      "time": 109.0,
+      "text": "ERROR: OCR failed for /var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/fde-video-frames-pp7h1q21/frame-000219.jpg: e5rtError(\"e5rt_execution_stream_operation_create_precompiled_compute_operation_with_options call failed\", 13)"
+    },
+    {
+      "time": 109.5,
+      "text": "ERROR: OCR failed for /var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/fde-video-frames-pp7h1q21/frame-000220.jpg: e5rtError(\"e5rt_execution_stream_operation_create_precompiled_compute_operation_with_options call failed\", 13)"
+    },
+    {
+      "time": 110.0,
+      "text": "ERROR: OCR failed for /var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/fde-video-frames-pp7h1q21/frame-000221.jpg: e5rtError(\"e5rt_execution_stream_operation_create_precompiled_compute_operation_with_options call failed\", 13)"
+    },
+    {
+      "time": 110.5,
+      "text": "ERROR: OCR failed for /var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/fde-video-frames-pp7h1q21/frame-000222.jpg: e5rtError(\"e5rt_execution_stream_operation_create_precompiled_compute_operation_with_options call failed\", 13)"
+    },
+    {
+      "time": 111.0,
+      "text": "ERROR: OCR failed for /var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/fde-video-frames-pp7h1q21/frame-000223.jpg: e5rtError(\"e5rt_execution_stream_operation_create_precompiled_compute_operation_with_options call failed\", 13)"
+    },
+    {
+      "time": 111.5,
+      "text": "ERROR: OCR failed for /var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/fde-video-frames-pp7h1q21/frame-000224.jpg: e5rtError(\"e5rt_execution_stream_operation_create_precompiled_compute_operation_with_options call failed\", 13)"
+    },
+    {
+      "time": 112.0,
+      "text": "ERROR: OCR failed for /var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/fde-video-frames-pp7h1q21/frame-000225.jpg: e5rtError(\"e5rt_execution_stream_operation_create_precompiled_compute_operation_with_options call failed\", 13)"
+    },
+    {
+      "time": 112.5,
+      "text": "ERROR: OCR failed for /var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/fde-video-frames-pp7h1q21/frame-000226.jpg: e5rtError(\"e5rt_execution_stream_operation_create_precompiled_compute_operation_with_options call failed\", 13)"
+    },
+    {
+      "time": 113.0,
+      "text": "ERROR: OCR failed for /var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/fde-video-frames-pp7h1q21/frame-000227.jpg: e5rtError(\"e5rt_execution_stream_operation_create_precompiled_compute_operation_with_options call failed\", 13)"
+    },
+    {
+      "time": 113.5,
+      "text": "ERROR: OCR failed for /var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/fde-video-frames-pp7h1q21/frame-000228.jpg: e5rtError(\"e5rt_execution_stream_operation_create_precompiled_compute_operation_with_options call failed\", 13)"
+    },
+    {
+      "time": 114.0,
+      "text": "ERROR: OCR failed for /var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/fde-video-frames-pp7h1q21/frame-000229.jpg: e5rtError(\"e5rt_execution_stream_operation_create_precompiled_compute_operation_with_options call failed\", 13)"
+    },
+    {
+      "time": 114.5,
+      "text": "ERROR: OCR failed for /var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/fde-video-frames-pp7h1q21/frame-000230.jpg: e5rtError(\"e5rt_execution_stream_operation_create_precompiled_compute_operation_with_options call failed\", 13)"
+    },
+    {
+      "time": 115.0,
+      "text": "ERROR: OCR failed for /var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/fde-video-frames-pp7h1q21/frame-000231.jpg: e5rtError(\"e5rt_execution_stream_operation_create_precompiled_compute_operation_with_options call failed\", 13)"
+    },
+    {
+      "time": 115.5,
+      "text": "ERROR: OCR failed for /var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/fde-video-frames-pp7h1q21/frame-000232.jpg: e5rtError(\"e5rt_execution_stream_operation_create_precompiled_compute_operation_with_options call failed\", 13)"
+    },
+    {
+      "time": 116.0,
+      "text": "ERROR: OCR failed for /var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/fde-video-frames-pp7h1q21/frame-000233.jpg: e5rtError(\"e5rt_execution_stream_operation_create_precompiled_compute_operation_with_options call failed\", 13)"
+    },
+    {
+      "time": 116.5,
+      "text": "ERROR: OCR failed for /var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/fde-video-frames-pp7h1q21/frame-000234.jpg: e5rtError(\"e5rt_execution_stream_operation_create_precompiled_compute_operation_with_options call failed\", 13)"
+    },
+    {
+      "time": 117.0,
+      "text": "ERROR: OCR failed for /var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/fde-video-frames-pp7h1q21/frame-000235.jpg: e5rtError(\"e5rt_execution_stream_operation_create_precompiled_compute_operation_with_options call failed\", 13)"
+    },
+    {
+      "time": 117.5,
+      "text": "ERROR: OCR failed for /var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/fde-video-frames-pp7h1q21/frame-000236.jpg: e5rtError(\"e5rt_execution_stream_operation_create_precompiled_compute_operation_with_options call failed\", 13)"
+    },
+    {
+      "time": 118.0,
+      "text": "ERROR: OCR failed for /var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/fde-video-frames-pp7h1q21/frame-000237.jpg: e5rtError(\"e5rt_execution_stream_operation_create_precompiled_compute_operation_with_options call failed\", 13)"
+    },
+    {
+      "time": 118.5,
+      "text": "ERROR: OCR failed for /var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/fde-video-frames-pp7h1q21/frame-000238.jpg: e5rtError(\"e5rt_execution_stream_operation_create_precompiled_compute_operation_with_options call failed\", 13)"
+    },
+    {
+      "time": 119.0,
+      "text": "ERROR: OCR failed for /var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/fde-video-frames-pp7h1q21/frame-000239.jpg: e5rtError(\"e5rt_execution_stream_operation_create_precompiled_compute_operation_with_options call failed\", 13)"
+    },
+    {
+      "time": 119.5,
+      "text": "ERROR: OCR failed for /var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/fde-video-frames-pp7h1q21/frame-000240.jpg: e5rtError(\"e5rt_execution_stream_operation_create_precompiled_compute_operation_with_options call failed\", 13)"
+    },
+    {
+      "time": 120.5,
+      "text": "那比如说您工作方面"
+    },
+    {
+      "time": 121.0,
+      "text": "那比如说您工作方面"
+    },
+    {
+      "time": 121.5,
+      "text": "就是可以用Al去帮你"
+    },
+    {
+      "time": 122.0,
+      "text": "就是可以用A去帮你"
+    },
+    {
+      "time": 122.5,
+      "text": "就是可以用Al去帮你"
+    },
+    {
+      "time": 123.0,
+      "text": "工作量很少"
+    },
+    {
+      "time": 123.5,
+      "text": "工作量很少\nLsckin coll"
+    },
+    {
+      "time": 124.0,
+      "text": "啊这工作量很少"
+    },
+    {
+      "time": 124.5,
+      "text": "啊这工作量很少"
+    },
+    {
+      "time": 125.0,
+      "text": ""
+    },
+    {
+      "time": 125.5,
+      "text": "-所以说还不需要让它来"
+    },
+    {
+      "time": 126.0,
+      "text": "所以说还不需要让它来"
+    },
+    {
+      "time": 126.5,
+      "text": "所以说还不需要让它来"
+    },
+    {
+      "time": 127.0,
+      "text": "重复帮我做一些事情"
+    },
+    {
+      "time": 127.5,
+      "text": "重复的帮我做一些事情"
+    },
+    {
+      "time": 128.0,
+      "text": ""
+    },
+    {
+      "time": 128.5,
+      "text": "重复的帮我做一些事情"
+    },
+    {
+      "time": 129.0,
+      "text": "pNifere\nFiMs\nVpie\n明自"
+    },
+    {
+      "time": 129.5,
+      "text": "Als cpptirn\npirerese\nWWsend FBAL\nVife+和\n好"
+    },
+    {
+      "time": 130.0,
+      "text": "★\npirores"
+    },
+    {
+      "time": 130.5,
+      "text": ""
+    },
+    {
+      "time": 131.0,
+      "text": "不好意思打扰了打扰了"
+    },
+    {
+      "time": 131.5,
+      "text": "不好意思打扰了打扰了"
+    },
+    {
+      "time": 132.5,
+      "text": "就是来交流一下"
+    },
+    {
+      "time": 133.0,
+      "text": "就是来交流一下"
+    },
+    {
+      "time": 133.5,
+      "text": "（再试试）"
+    },
+    {
+      "time": 134.0,
+      "text": "因为我觉得A落地这方面"
+    },
+    {
+      "time": 134.5,
+      "text": "因为我觉得AI落地这方面"
+    },
+    {
+      "time": 135.0,
+      "text": "因为我觉得A落地这方面"
+    },
+    {
+      "time": 135.5,
+      "text": "确实它是一个丢一个地的"
+    },
+    {
+      "time": 136.0,
+      "text": "确实它是一个天一个地"
+    },
+    {
+      "time": 136.5,
+      "text": "确实它是=\n一个天一个地的"
+    },
+    {
+      "time": 137.0,
+      "text": "我知道是"
+    },
+    {
+      "time": 137.5,
+      "text": "但是它有些东西在某一些行业"
+    },
+    {
+      "time": 138.0,
+      "text": "但是它有些东西在某一些行业"
+    },
+    {
+      "time": 138.5,
+      "text": "但是它有些东西在某一些行业"
+    },
+    {
+      "time": 139.0,
+      "text": "但是它有些东西在某一些行业"
+    },
+    {
+      "time": 139.5,
+      "text": "嗯"
+    },
+    {
+      "time": 140.0,
+      "text": "并不是很"
+    },
+    {
+      "time": 140.5,
+      "text": "还没有到技术成熟到可以迁移过去"
+    },
+    {
+      "time": 141.0,
+      "text": "还没有到技术成熟到可以迁移过去"
+    },
+    {
+      "time": 141.5,
+      "text": "还没有到技术成熟到可以迁移过去"
+    },
+    {
+      "time": 142.0,
+      "text": "还没有到技术成熟到可以迁移过去"
+    },
+    {
+      "time": 142.5,
+      "text": "还没有到技术成熟到可以迁移过去"
+    },
+    {
+      "time": 143.0,
+      "text": "还没有到技术成熟到可以迁移过去"
+    },
+    {
+      "time": 143.5,
+      "text": "还没有到技术成熟到可以迁移过去"
+    },
+    {
+      "time": 144.5,
+      "text": "但我个人觉得啊"
+    },
+    {
+      "time": 145.0,
+      "text": "但我1\n《觉得啊"
+    },
+    {
+      "time": 145.5,
+      "text": "但我个人觉得啊"
+    },
+    {
+      "time": 146.0,
+      "text": "但我个人觉得啊"
+    },
+    {
+      "time": 146.5,
+      "text": "其实模型能力现在已经很强了"
+    },
+    {
+      "time": 147.0,
+      "text": "其实模型能力现在已经很强了"
+    },
+    {
+      "time": 147.5,
+      "text": "其实模型能力现在已经很强了"
+    },
+    {
+      "time": 148.0,
+      "text": "其实模型能力现在已经很强了"
+    },
+    {
+      "time": 148.5,
+      "text": "就能做的事情是很多很多白"
+    },
+    {
+      "time": 149.0,
+      "text": "就能做的事情是很多很多的"
+    },
+    {
+      "time": 149.5,
+      "text": "就能做的事情是很多很多的"
+    },
+    {
+      "time": 150.0,
+      "text": "就能做的事情是很多很多的"
+    },
+    {
+      "time": 150.5,
+      "text": ""
+    },
+    {
+      "time": 151.0,
+      "text": "但是看那个"
+    },
+    {
+      "time": 151.5,
+      "text": "但是看那个"
+    },
+    {
+      "time": 152.0,
+      "text": ""
+    },
+    {
+      "time": 152.5,
+      "text": "就像人一样的"
+    },
+    {
+      "time": 153.0,
+      "text": "嗯嗯"
+    },
+    {
+      "time": 153.5,
+      "text": "就适合的人才能做这个岗位"
+    },
+    {
+      "time": 154.0,
+      "text": "ERROR: OCR failed for /var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/fde-video-frames-pp7h1q21/frame-000309.jpg: e5rtError(\"e5rt_execution_stream_operation_create_precompiled_compute_operation_with_options call failed\", 13)"
+    },
+    {
+      "time": 154.5,
+      "text": "ERROR: OCR failed for /var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/fde-video-frames-pp7h1q21/frame-000310.jpg: e5rtError(\"e5rt_execution_stream_operation_create_precompiled_compute_operation_with_options call failed\", 13)"
+    },
+    {
+      "time": 155.0,
+      "text": "ERROR: OCR failed for /var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/fde-video-frames-pp7h1q21/frame-000311.jpg: e5rtError(\"e5rt_execution_stream_operation_create_precompiled_compute_operation_with_options call failed\", 13)"
+    },
+    {
+      "time": 155.5,
+      "text": "ERROR: OCR failed for /var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/fde-video-frames-pp7h1q21/frame-000312.jpg: e5rtError(\"e5rt_execution_stream_operation_create_precompiled_compute_operation_with_options call failed\", 13)"
+    },
+    {
+      "time": 156.5,
+      "text": "ERROR: OCR failed for /var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/fde-video-frames-pp7h1q21/frame-000314.jpg: e5rtError(\"e5rt_execution_stream_operation_create_precompiled_compute_operation_with_options call failed\", 13)"
+    },
+    {
+      "time": 157.0,
+      "text": "ERROR: OCR failed for /var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/fde-video-frames-pp7h1q21/frame-000315.jpg: e5rtError(\"e5rt_execution_stream_operation_create_precompiled_compute_operation_with_options call failed\", 13)"
+    },
+    {
+      "time": 157.5,
+      "text": "ERROR: OCR failed for /var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/fde-video-frames-pp7h1q21/frame-000316.jpg: e5rtError(\"e5rt_execution_stream_operation_create_precompiled_compute_operation_with_options call failed\", 13)"
+    },
+    {
+      "time": 158.0,
+      "text": "ERROR: OCR failed for /var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/fde-video-frames-pp7h1q21/frame-000317.jpg: e5rtError(\"e5rt_execution_stream_operation_create_precompiled_compute_operation_with_options call failed\", 13)"
+    },
+    {
+      "time": 158.5,
+      "text": "ERROR: OCR failed for /var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/fde-video-frames-pp7h1q21/frame-000318.jpg: e5rtError(\"e5rt_execution_stream_operation_create_precompiled_compute_operation_with_options call failed\", 13)"
+    },
+    {
+      "time": 159.0,
+      "text": "ERROR: OCR failed for /var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/fde-video-frames-pp7h1q21/frame-000319.jpg: e5rtError(\"e5rt_execution_stream_operation_create_precompiled_compute_operation_with_options call failed\", 13)"
+    },
+    {
+      "time": 159.5,
+      "text": "ERROR: OCR failed for /var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/fde-video-frames-pp7h1q21/frame-000320.jpg: e5rtError(\"e5rt_execution_stream_operation_create_precompiled_compute_operation_with_options call failed\", 13)"
+    },
+    {
+      "time": 160.0,
+      "text": "ERROR: OCR failed for /var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/fde-video-frames-pp7h1q21/frame-000321.jpg: e5rtError(\"e5rt_execution_stream_operation_create_precompiled_compute_operation_with_options call failed\", 13)"
+    },
+    {
+      "time": 160.5,
+      "text": "ERROR: OCR failed for /var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/fde-video-frames-pp7h1q21/frame-000322.jpg: e5rtError(\"e5rt_execution_stream_operation_create_precompiled_compute_operation_with_options call failed\", 13)"
+    },
+    {
+      "time": 161.0,
+      "text": "ERROR: OCR failed for /var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/fde-video-frames-pp7h1q21/frame-000323.jpg: e5rtError(\"e5rt_execution_stream_operation_create_precompiled_compute_operation_with_options call failed\", 13)"
+    },
+    {
+      "time": 161.5,
+      "text": "ERROR: OCR failed for /var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/fde-video-frames-pp7h1q21/frame-000324.jpg: e5rtError(\"e5rt_execution_stream_operation_create_precompiled_compute_operation_with_options call failed\", 13)"
+    },
+    {
+      "time": 162.0,
+      "text": "ERROR: OCR failed for /var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/fde-video-frames-pp7h1q21/frame-000325.jpg: e5rtError(\"e5rt_execution_stream_operation_create_precompiled_compute_operation_with_options call failed\", 13)"
+    },
+    {
+      "time": 162.5,
+      "text": "ERROR: OCR failed for /var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/fde-video-frames-pp7h1q21/frame-000326.jpg: e5rtError(\"e5rt_execution_stream_operation_create_precompiled_compute_operation_with_options call failed\", 13)"
+    },
+    {
+      "time": 163.0,
+      "text": "ERROR: OCR failed for /var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/fde-video-frames-pp7h1q21/frame-000327.jpg: e5rtError(\"e5rt_execution_stream_operation_create_precompiled_compute_operation_with_options call failed\", 13)"
+    },
+    {
+      "time": 163.5,
+      "text": "ERROR: OCR failed for /var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/fde-video-frames-pp7h1q21/frame-000328.jpg: e5rtError(\"e5rt_execution_stream_operation_create_precompiled_compute_operation_with_options call failed\", 13)"
+    },
+    {
+      "time": 164.0,
+      "text": "ERROR: OCR failed for /var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/fde-video-frames-pp7h1q21/frame-000329.jpg: e5rtError(\"e5rt_execution_stream_operation_create_precompiled_compute_operation_with_options call failed\", 13)"
+    },
+    {
+      "time": 164.5,
+      "text": "ERROR: OCR failed for /var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/fde-video-frames-pp7h1q21/frame-000330.jpg: e5rtError(\"e5rt_execution_stream_operation_create_precompiled_compute_operation_with_options call failed\", 13)"
+    },
+    {
+      "time": 165.0,
+      "text": "ERROR: OCR failed for /var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/fde-video-frames-pp7h1q21/frame-000331.jpg: e5rtError(\"e5rt_execution_stream_operation_create_precompiled_compute_operation_with_options call failed\", 13)"
+    },
+    {
+      "time": 165.5,
+      "text": "ERROR: OCR failed for /var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/fde-video-frames-pp7h1q21/frame-000332.jpg: e5rtError(\"e5rt_execution_stream_operation_create_precompiled_compute_operation_with_options call failed\", 13)"
+    },
+    {
+      "time": 166.0,
+      "text": "ERROR: OCR failed for /var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/fde-video-frames-pp7h1q21/frame-000333.jpg: e5rtError(\"e5rt_execution_stream_operation_create_precompiled_compute_operation_with_options call failed\", 13)"
+    },
+    {
+      "time": 166.5,
+      "text": "ERROR: OCR failed for /var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/fde-video-frames-pp7h1q21/frame-000334.jpg: e5rtError(\"e5rt_execution_stream_operation_create_precompiled_compute_operation_with_options call failed\", 13)"
+    },
+    {
+      "time": 167.0,
+      "text": "ERROR: OCR failed for /var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/fde-video-frames-pp7h1q21/frame-000335.jpg: e5rtError(\"e5rt_execution_stream_operation_create_precompiled_compute_operation_with_options call failed\", 13)"
+    },
+    {
+      "time": 167.5,
+      "text": "ERROR: OCR failed for /var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/fde-video-frames-pp7h1q21/frame-000336.jpg: e5rtError(\"e5rt_execution_stream_operation_create_precompiled_compute_operation_with_options call failed\", 13)"
+    },
+    {
+      "time": 168.5,
+      "text": "然后后面不是合规合税了吗国内"
+    },
+    {
+      "time": 169.0,
+      "text": "然后后面不是合规合税了吗国内"
+    },
+    {
+      "time": 169.5,
+      "text": "然后后面不是合规合税了吗国肉"
+    },
+    {
+      "time": 170.0,
+      "text": "然后后面不是合规合税了吗国内"
+    },
+    {
+      "time": 170.5,
+      "text": "然后后面不是合规合税了吗国内"
+    },
+    {
+      "time": 171.0,
+      "text": "然后我就转行到AI"
+    },
+    {
+      "time": 171.5,
+      "text": "然后我就转行到AI"
+    },
+    {
+      "time": 172.0,
+      "text": "然后我就转行到AI"
+    },
+    {
+      "time": 172.5,
+      "text": "然后我发现AI这个东西"
+    },
+    {
+      "time": 173.0,
+      "text": "然后我发现AI这个东西"
+    },
+    {
+      "time": 173.5,
+      "text": "那我自己学习能力也强"
+    },
+    {
+      "time": 174.0,
+      "text": "那我自己学习能力也强"
+    },
+    {
+      "time": 174.5,
+      "text": "然后我就不断的学"
+    },
+    {
+      "time": 175.0,
+      "text": "然后我就不断学"
+    },
+    {
+      "time": 175.5,
+      "text": "不断学到现在为上"
+    },
+    {
+      "time": 176.0,
+      "text": "不断学到现在为止"
+    },
+    {
+      "time": 176.5,
+      "text": "大半年过去"
+    },
+    {
+      "time": 177.0,
+      "text": "我觉得就是要落地嘛"
+    },
+    {
+      "time": 177.5,
+      "text": "我觉得就是要落地嘛"
+    },
+    {
+      "time": 178.0,
+      "text": "我觉得就是要落地嘛"
+    },
+    {
+      "time": 178.5,
+      "text": "就不能自己自嗨"
+    },
+    {
+      "time": 179.0,
+      "text": "就不能自己自嗨飽"
+    },
+    {
+      "time": 179.5,
+      "text": "就不能自己自嗨的"
+    },
+    {
+      "time": 180.5,
+      "text": "这种做什么APP什么"
+    },
+    {
+      "time": 181.0,
+      "text": "这种做什么APP什么"
+    },
+    {
+      "time": 181.5,
+      "text": "做应用什么的"
+    },
+    {
+      "time": 182.0,
+      "text": "做应用什么"
+    },
+    {
+      "time": 182.5,
+      "text": ""
+    },
+    {
+      "time": 183.0,
+      "text": "所以我觉得就是"
+    },
+    {
+      "time": 183.5,
+      "text": "所以我觉得就是"
+    },
+    {
+      "time": 184.0,
+      "text": ""
+    },
+    {
+      "time": 184.5,
+      "text": "那我自己觉得啊"
+    },
+    {
+      "time": 185.0,
+      "text": "那我自己觉得啊"
+    },
+    {
+      "time": 185.5,
+      "text": "那我自己觉得啊"
+    },
+    {
+      "time": 186.0,
+      "text": "呃先不说取代取不代"
+    },
+    {
+      "time": 186.5,
+      "text": "呃先不说取代取不代"
+    },
+    {
+      "time": 187.0,
+      "text": "呃先不说取代取不代"
+    },
+    {
+      "time": 187.5,
+      "text": "其实取取不取代呢"
+    },
+    {
+      "time": 188.0,
+      "text": "其实取取不取代呢"
+    },
+    {
+      "time": 188.5,
+      "text": "他是个伪"
+    },
+    {
+      "time": 189.0,
+      "text": "你坐你坐\n他是个伪"
+    },
+    {
+      "time": 189.5,
+      "text": "兩迎兩4"
+    },
+    {
+      "time": 190.0,
+      "text": "啊其实我是觉得就是"
+    },
+    {
+      "time": 190.5,
+      "text": "啊其实我是觉得就是"
+    },
+    {
+      "time": 191.0,
+      "text": "啊其实我是觉得就是"
+    },
+    {
+      "time": 191.5,
+      "text": "啊其实我是觉得就是"
+    },
+    {
+      "time": 192.5,
+      "text": "就是对于工作来说"
+    },
+    {
+      "time": 193.0,
+      "text": "就是对于工作来说"
+    },
+    {
+      "time": 193.5,
+      "text": "提效是非常有用的"
+    },
+    {
+      "time": 194.0,
+      "text": "提效是非常有用的"
+    },
+    {
+      "time": 194.5,
+      "text": "因为我是大半年"
+    },
+    {
+      "time": 195.0,
+      "text": "因为我是大半年"
+    },
+    {
+      "time": 195.5,
+      "text": "然后我是自己肯定"
+    },
+    {
+      "time": 196.0,
+      "text": "然后我是自己肯定"
+    },
+    {
+      "time": 196.5,
+      "text": "然后我是自己肯定"
+    },
+    {
+      "time": 197.0,
+      "text": "要解决自己的问题"
+    },
+    {
+      "time": 197.5,
+      "text": "要解决自己的问题"
+    },
+    {
+      "time": 198.0,
+      "text": "工作上用用Codex"
+    },
+    {
+      "time": 198.5,
+      "text": "工作上用用Codex"
+    },
+    {
+      "time": 199.0,
+      "text": "工作上用用Codex"
+    },
+    {
+      "time": 199.5,
+      "text": "工作上用用Codex"
+    },
+    {
+      "time": 200.0,
+      "text": "现在workbuddy其实国内的"
+    },
+    {
+      "time": 200.5,
+      "text": "现在Workbuddy其实国内的"
+    },
+    {
+      "time": 201.0,
+      "text": "生态也是比较好了"
+    },
+    {
+      "time": 201.5,
+      "text": "生态也是比较好了"
+    },
+    {
+      "time": 202.0,
+      "text": "生态也是比较好了"
+    },
+    {
+      "time": 202.5,
+      "text": ""
+    },
+    {
+      "time": 203.0,
+      "text": "尤其是Codex开始的时候啊"
+    },
+    {
+      "time": 203.5,
+      "text": "尤其是Codex开始的时候啊"
+    },
+    {
+      "time": 204.5,
+      "text": "ERROR: OCR failed for /var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/fde-video-frames-pp7h1q21/frame-000410.jpg: e5rtError(\"e5rt_execution_stream_operation_create_precompiled_compute_operation_with_options call failed\", 13)"
+    },
+    {
+      "time": 205.0,
+      "text": "ERROR: OCR failed for /var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/fde-video-frames-pp7h1q21/frame-000411.jpg: e5rtError(\"e5rt_execution_stream_operation_create_precompiled_compute_operation_with_options call failed\", 13)"
+    },
+    {
+      "time": 205.5,
+      "text": "ERROR: OCR failed for /var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/fde-video-frames-pp7h1q21/frame-000412.jpg: e5rtError(\"e5rt_execution_stream_operation_create_precompiled_compute_operation_with_options call failed\", 13)"
+    },
+    {
+      "time": 206.0,
+      "text": "ERROR: OCR failed for /var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/fde-video-frames-pp7h1q21/frame-000413.jpg: e5rtError(\"e5rt_execution_stream_operation_create_precompiled_compute_operation_with_options call failed\", 13)"
+    },
+    {
+      "time": 206.5,
+      "text": "ERROR: OCR failed for /var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/fde-video-frames-pp7h1q21/frame-000414.jpg: e5rtError(\"e5rt_execution_stream_operation_create_precompiled_compute_operation_with_options call failed\", 13)"
+    },
+    {
+      "time": 207.0,
+      "text": "ERROR: OCR failed for /var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/fde-video-frames-pp7h1q21/frame-000415.jpg: e5rtError(\"e5rt_execution_stream_operation_create_precompiled_compute_operation_with_options call failed\", 13)"
+    },
+    {
+      "time": 207.5,
+      "text": "ERROR: OCR failed for /var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/fde-video-frames-pp7h1q21/frame-000416.jpg: e5rtError(\"e5rt_execution_stream_operation_create_precompiled_compute_operation_with_options call failed\", 13)"
+    },
+    {
+      "time": 208.0,
+      "text": "ERROR: OCR failed for /var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/fde-video-frames-pp7h1q21/frame-000417.jpg: e5rtError(\"e5rt_execution_stream_operation_create_precompiled_compute_operation_with_options call failed\", 13)"
+    },
+    {
+      "time": 208.5,
+      "text": "ERROR: OCR failed for /var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/fde-video-frames-pp7h1q21/frame-000418.jpg: e5rtError(\"e5rt_execution_stream_operation_create_precompiled_compute_operation_with_options call failed\", 13)"
+    },
+    {
+      "time": 209.0,
+      "text": "ERROR: OCR failed for /var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/fde-video-frames-pp7h1q21/frame-000419.jpg: e5rtError(\"e5rt_execution_stream_operation_create_precompiled_compute_operation_with_options call failed\", 13)"
+    },
+    {
+      "time": 209.5,
+      "text": "ERROR: OCR failed for /var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/fde-video-frames-pp7h1q21/frame-000420.jpg: e5rtError(\"e5rt_execution_stream_operation_create_precompiled_compute_operation_with_options call failed\", 13)"
+    },
+    {
+      "time": 210.0,
+      "text": "ERROR: OCR failed for /var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/fde-video-frames-pp7h1q21/frame-000421.jpg: e5rtError(\"e5rt_execution_stream_operation_create_precompiled_compute_operation_with_options call failed\", 13)"
+    },
+    {
+      "time": 210.5,
+      "text": "ERROR: OCR failed for /var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/fde-video-frames-pp7h1q21/frame-000422.jpg: e5rtError(\"e5rt_execution_stream_operation_create_precompiled_compute_operation_with_options call failed\", 13)"
+    },
+    {
+      "time": 211.0,
+      "text": "ERROR: OCR failed for /var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/fde-video-frames-pp7h1q21/frame-000423.jpg: e5rtError(\"e5rt_execution_stream_operation_create_precompiled_compute_operation_with_options call failed\", 13)"
+    },
+    {
+      "time": 211.5,
+      "text": "ERROR: OCR failed for /var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/fde-video-frames-pp7h1q21/frame-000424.jpg: e5rtError(\"e5rt_execution_stream_operation_create_precompiled_compute_operation_with_options call failed\", 13)"
+    },
+    {
+      "time": 212.0,
+      "text": "ERROR: OCR failed for /var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/fde-video-frames-pp7h1q21/frame-000425.jpg: e5rtError(\"e5rt_execution_stream_operation_create_precompiled_compute_operation_with_options call failed\", 13)"
+    },
+    {
+      "time": 212.5,
+      "text": "ERROR: OCR failed for /var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/fde-video-frames-pp7h1q21/frame-000426.jpg: e5rtError(\"e5rt_execution_stream_operation_create_precompiled_compute_operation_with_options call failed\", 13)"
+    },
+    {
+      "time": 213.0,
+      "text": "ERROR: OCR failed for /var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/fde-video-frames-pp7h1q21/frame-000427.jpg: e5rtError(\"e5rt_execution_stream_operation_create_precompiled_compute_operation_with_options call failed\", 13)"
+    },
+    {
+      "time": 213.5,
+      "text": "ERROR: OCR failed for /var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/fde-video-frames-pp7h1q21/frame-000428.jpg: e5rtError(\"e5rt_execution_stream_operation_create_precompiled_compute_operation_with_options call failed\", 13)"
+    },
+    {
+      "time": 214.0,
+      "text": "ERROR: OCR failed for /var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/fde-video-frames-pp7h1q21/frame-000429.jpg: e5rtError(\"e5rt_execution_stream_operation_create_precompiled_compute_operation_with_options call failed\", 13)"
+    },
+    {
+      "time": 214.5,
+      "text": "ERROR: OCR failed for /var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/fde-video-frames-pp7h1q21/frame-000430.jpg: e5rtError(\"e5rt_execution_stream_operation_create_precompiled_compute_operation_with_options call failed\", 13)"
+    },
+    {
+      "time": 215.0,
+      "text": "ERROR: OCR failed for /var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/fde-video-frames-pp7h1q21/frame-000431.jpg: e5rtError(\"e5rt_execution_stream_operation_create_precompiled_compute_operation_with_options call failed\", 13)"
+    },
+    {
+      "time": 215.5,
+      "text": "ERROR: OCR failed for /var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/fde-video-frames-pp7h1q21/frame-000432.jpg: e5rtError(\"e5rt_execution_stream_operation_create_precompiled_compute_operation_with_options call failed\", 13)"
+    },
+    {
+      "time": 216.5,
+      "text": "ERROR: OCR failed for /var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/fde-video-frames-pp7h1q21/frame-000434.jpg: e5rtError(\"e5rt_execution_stream_operation_create_precompiled_compute_operation_with_options call failed\", 13)"
+    },
+    {
+      "time": 217.0,
+      "text": "ERROR: OCR failed for /var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/fde-video-frames-pp7h1q21/frame-000435.jpg: e5rtError(\"e5rt_execution_stream_operation_create_precompiled_compute_operation_with_options call failed\", 13)"
+    },
+    {
+      "time": 217.5,
+      "text": "ERROR: OCR failed for /var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/fde-video-frames-pp7h1q21/frame-000436.jpg: e5rtError(\"e5rt_execution_stream_operation_create_precompiled_compute_operation_with_options call failed\", 13)"
+    },
+    {
+      "time": 218.0,
+      "text": "ERROR: OCR failed for /var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/fde-video-frames-pp7h1q21/frame-000437.jpg: e5rtError(\"e5rt_execution_stream_operation_create_precompiled_compute_operation_with_options call failed\", 13)"
+    },
+    {
+      "time": 218.5,
+      "text": "ERROR: OCR failed for /var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/fde-video-frames-pp7h1q21/frame-000438.jpg: e5rtError(\"e5rt_execution_stream_operation_create_precompiled_compute_operation_with_options call failed\", 13)"
+    },
+    {
+      "time": 219.0,
+      "text": "ERROR: OCR failed for /var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/fde-video-frames-pp7h1q21/frame-000439.jpg: e5rtError(\"e5rt_execution_stream_operation_create_precompiled_compute_operation_with_options call failed\", 13)"
+    },
+    {
+      "time": 219.5,
+      "text": "ERROR: OCR failed for /var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/fde-video-frames-pp7h1q21/frame-000440.jpg: e5rtError(\"e5rt_execution_stream_operation_create_precompiled_compute_operation_with_options call failed\", 13)"
+    },
+    {
+      "time": 220.0,
+      "text": "ERROR: OCR failed for /var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/fde-video-frames-pp7h1q21/frame-000441.jpg: e5rtError(\"e5rt_execution_stream_operation_create_precompiled_compute_operation_with_options call failed\", 13)"
+    },
+    {
+      "time": 220.5,
+      "text": "ERROR: OCR failed for /var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/fde-video-frames-pp7h1q21/frame-000442.jpg: e5rtError(\"e5rt_execution_stream_operation_create_precompiled_compute_operation_with_options call failed\", 13)"
+    },
+    {
+      "time": 221.0,
+      "text": "ERROR: OCR failed for /var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/fde-video-frames-pp7h1q21/frame-000443.jpg: e5rtError(\"e5rt_execution_stream_operation_create_precompiled_compute_operation_with_options call failed\", 13)"
+    },
+    {
+      "time": 221.5,
+      "text": "ERROR: OCR failed for /var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/fde-video-frames-pp7h1q21/frame-000444.jpg: e5rtError(\"e5rt_execution_stream_operation_create_precompiled_compute_operation_with_options call failed\", 13)"
+    },
+    {
+      "time": 222.0,
+      "text": "ERROR: OCR failed for /var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/fde-video-frames-pp7h1q21/frame-000445.jpg: e5rtError(\"e5rt_execution_stream_operation_create_precompiled_compute_operation_with_options call failed\", 13)"
+    },
+    {
+      "time": 222.5,
+      "text": "ERROR: OCR failed for /var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/fde-video-frames-pp7h1q21/frame-000446.jpg: e5rtError(\"e5rt_execution_stream_operation_create_precompiled_compute_operation_with_options call failed\", 13)"
+    },
+    {
+      "time": 223.0,
+      "text": "ERROR: OCR failed for /var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/fde-video-frames-pp7h1q21/frame-000447.jpg: e5rtError(\"e5rt_execution_stream_operation_create_precompiled_compute_operation_with_options call failed\", 13)"
+    },
+    {
+      "time": 223.5,
+      "text": "ERROR: OCR failed for /var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/fde-video-frames-pp7h1q21/frame-000448.jpg: e5rtError(\"e5rt_execution_stream_operation_create_precompiled_compute_operation_with_options call failed\", 13)"
+    },
+    {
+      "time": 224.0,
+      "text": "ERROR: OCR failed for /var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/fde-video-frames-pp7h1q21/frame-000449.jpg: e5rtError(\"e5rt_execution_stream_operation_create_precompiled_compute_operation_with_options call failed\", 13)"
+    },
+    {
+      "time": 224.5,
+      "text": "ERROR: OCR failed for /var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/fde-video-frames-pp7h1q21/frame-000450.jpg: e5rtError(\"e5rt_execution_stream_operation_create_precompiled_compute_operation_with_options call failed\", 13)"
+    },
+    {
+      "time": 225.0,
+      "text": "ERROR: OCR failed for /var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/fde-video-frames-pp7h1q21/frame-000451.jpg: e5rtError(\"e5rt_execution_stream_operation_create_precompiled_compute_operation_with_options call failed\", 13)"
+    },
+    {
+      "time": 225.5,
+      "text": "ERROR: OCR failed for /var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/fde-video-frames-pp7h1q21/frame-000452.jpg: e5rtError(\"e5rt_execution_stream_operation_create_precompiled_compute_operation_with_options call failed\", 13)"
+    },
+    {
+      "time": 226.0,
+      "text": "ERROR: OCR failed for /var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/fde-video-frames-pp7h1q21/frame-000453.jpg: e5rtError(\"e5rt_execution_stream_operation_create_precompiled_compute_operation_with_options call failed\", 13)"
+    },
+    {
+      "time": 226.5,
+      "text": "ERROR: OCR failed for /var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/fde-video-frames-pp7h1q21/frame-000454.jpg: e5rtError(\"e5rt_execution_stream_operation_create_precompiled_compute_operation_with_options call failed\", 13)"
+    },
+    {
+      "time": 227.0,
+      "text": "ERROR: OCR failed for /var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/fde-video-frames-pp7h1q21/frame-000455.jpg: e5rtError(\"e5rt_execution_stream_operation_create_precompiled_compute_operation_with_options call failed\", 13)"
+    },
+    {
+      "time": 227.5,
+      "text": "ERROR: OCR failed for /var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/fde-video-frames-pp7h1q21/frame-000456.jpg: e5rtError(\"e5rt_execution_stream_operation_create_precompiled_compute_operation_with_options call failed\", 13)"
+    },
+    {
+      "time": 228.5,
+      "text": "你的意思你你帮帮帮别人去定制"
+    },
+    {
+      "time": 229.0,
+      "text": "你的意思你你帮帮帮别人去定制"
+    },
+    {
+      "time": 229.5,
+      "text": "你的意思你你帮帮帮别人去定制"
+    },
+    {
+      "time": 230.0,
+      "text": "啊对对对"
+    },
+    {
+      "time": 230.5,
+      "text": ""
+    },
+    {
+      "time": 231.0,
+      "text": "细化的工作流"
+    },
+    {
+      "time": 231.5,
+      "text": "对对对对对对"
+    },
+    {
+      "time": 232.0,
+      "text": "对对对对对对"
+    },
+    {
+      "time": 232.5,
+      "text": "就是AI解决方案"
+    },
+    {
+      "time": 233.0,
+      "text": "就是AI解决方案"
+    },
+    {
+      "time": 233.5,
+      "text": "它是一套系统的"
+    },
+    {
+      "time": 234.0,
+      "text": "比如说Codex可能大家有在"
+    },
+    {
+      "time": 234.5,
+      "text": "比如说Codex可能大家有在"
+    },
+    {
+      "time": 235.0,
+      "text": "比如说Codex可能大家有在"
+    },
+    {
+      "time": 235.5,
+      "text": "那也有Codex没在用的"
+    },
+    {
+      "time": 236.0,
+      "text": "那也有Codex没在用"
+    },
+    {
+      "time": 236.5,
+      "text": "甚至Workbuddy还没在用的"
+    },
+    {
+      "time": 237.0,
+      "text": "甚至Workbuddy还没在用的"
+    },
+    {
+      "time": 237.5,
+      "text": "甚至Workbuddy还没在用的"
+    },
+    {
+      "time": 238.0,
+      "text": ""
+    },
+    {
+      "time": 238.5,
+      "text": ""
+    },
+    {
+      "time": 239.0,
+      "text": "东西是可以接触一下"
+    },
+    {
+      "time": 239.5,
+      "text": ""
+    },
+    {
+      "time": 240.5,
+      "text": "然后呃那现在我觉得国内"
+    },
+    {
+      "time": 241.0,
+      "text": "然后呃那现在我觉得国内，"
+    },
+    {
+      "time": 241.5,
+      "text": "然后呃那现在我觉得国内"
+    },
+    {
+      "time": 242.0,
+      "text": "然后呃那现在我觉得国内"
+    },
+    {
+      "time": 242.5,
+      "text": "然后呃那现在我觉得国内"
+    },
+    {
+      "time": 243.0,
+      "text": "然后呃那现在我觉得国肉"
+    },
+    {
+      "time": 243.5,
+      "text": "的电商他们用codex很多"
+    },
+    {
+      "time": 244.0,
+      "text": "的电商他们用codex很多"
+    },
+    {
+      "time": 244.5,
+      "text": "比如说生图什么的啊"
+    },
+    {
+      "time": 245.0,
+      "text": "比如说生图什么啊"
+    },
+    {
+      "time": 245.5,
+      "text": "这种已经是很很早的了"
+    },
+    {
+      "time": 246.0,
+      "text": "这种已经是很很早的了"
+    },
+    {
+      "time": 246.5,
+      "text": "这种已经是很很早的了"
+    },
+    {
+      "time": 247.0,
+      "text": "那国外的话"
+    },
+    {
+      "time": 247.5,
+      "text": "那国外的话"
+    },
+    {
+      "time": 248.0,
+      "text": "那国外的话"
+    },
+    {
+      "time": 248.5,
+      "text": ""
+    },
+    {
+      "time": 249.0,
+      "text": "他们都是比如说抓数据抓评论"
+    },
+    {
+      "time": 249.5,
+      "text": "他们都是比如说抓数据抓评论"
+    },
+    {
+      "time": 250.0,
+      "text": "他们都是比如说抓数据抓评论"
+    },
+    {
+      "time": 250.5,
+      "text": "然后还还有就是呃把国外的"
+    },
+    {
+      "time": 251.0,
+      "text": "然后还还有就是呃把国外的"
+    },
+    {
+      "time": 251.5,
+      "text": "然后还还有就是呃把国外"
+    },
+    {
+      "time": 252.5,
+      "text": "素材全部抓过来进行混剪"
+    },
+    {
+      "time": 253.0,
+      "text": "素材全部抓过来进行混剪"
+    },
+    {
+      "time": 253.5,
+      "text": "素材全部抓过来进行混剪"
+    },
+    {
+      "time": 254.0,
+      "text": "素材全部抓过来进行混剪"
+    },
+    {
+      "time": 254.5,
+      "text": "国内国内的电商有没有在"
+    },
+    {
+      "time": 255.0,
+      "text": "国内的国内的电商有没有在"
+    },
+    {
+      "time": 255.5,
+      "text": "国内的国内的电商有没有在"
+    },
+    {
+      "time": 256.0,
+      "text": "国内的国内的电商有没有在"
+    },
+    {
+      "time": 256.5,
+      "text": "国内的国内的电商有没有在"
+    },
+    {
+      "time": 257.0,
+      "text": "有有有有有用的呀"
+    },
+    {
+      "time": 257.5,
+      "text": "有有有有有用的呀"
+    },
+    {
+      "time": 258.0,
+      "text": "有有有有有用的呀"
+    },
+    {
+      "time": 258.5,
+      "text": "有有有有有用的呀"
+    },
+    {
+      "time": 259.0,
+      "text": "有有有有有用的呀"
+    },
+    {
+      "time": 259.5,
+      "text": "用这个主要用在什么"
+    },
+    {
+      "time": 260.0,
+      "text": "用这个主要用在什么"
+    },
+    {
+      "time": 260.5,
+      "text": "呃"
+    },
+    {
+      "time": 261.0,
+      "text": "其实电商场景能用的地方是很多"
+    },
+    {
+      "time": 261.5,
+      "text": "其实电商场景能用的地方是很多的"
+    },
+    {
+      "time": 262.0,
+      "text": "ERROR: OCR failed for /var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/fde-video-frames-pp7h1q21/frame-000525.jpg: e5rtError(\"e5rt_execution_stream_operation_create_precompiled_compute_operation_with_options call failed\", 13)"
+    },
+    {
+      "time": 262.5,
+      "text": "ERROR: OCR failed for /var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/fde-video-frames-pp7h1q21/frame-000526.jpg: e5rtError(\"e5rt_execution_stream_operation_create_precompiled_compute_operation_with_options call failed\", 13)"
+    },
+    {
+      "time": 263.0,
+      "text": "ERROR: OCR failed for /var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/fde-video-frames-pp7h1q21/frame-000527.jpg: e5rtError(\"e5rt_execution_stream_operation_create_precompiled_compute_operation_with_options call failed\", 13)"
+    },
+    {
+      "time": 263.5,
+      "text": "ERROR: OCR failed for /var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/fde-video-frames-pp7h1q21/frame-000528.jpg: e5rtError(\"e5rt_execution_stream_operation_create_precompiled_compute_operation_with_options call failed\", 13)"
+    },
+    {
+      "time": 264.5,
+      "text": "ERROR: OCR failed for /var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/fde-video-frames-pp7h1q21/frame-000530.jpg: e5rtError(\"e5rt_execution_stream_operation_create_precompiled_compute_operation_with_options call failed\", 13)"
+    },
+    {
+      "time": 265.0,
+      "text": "ERROR: OCR failed for /var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/fde-video-frames-pp7h1q21/frame-000531.jpg: e5rtError(\"e5rt_execution_stream_operation_create_precompiled_compute_operation_with_options call failed\", 13)"
+    },
+    {
+      "time": 265.5,
+      "text": "ERROR: OCR failed for /var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/fde-video-frames-pp7h1q21/frame-000532.jpg: e5rtError(\"e5rt_execution_stream_operation_create_precompiled_compute_operation_with_options call failed\", 13)"
+    },
+    {
+      "time": 266.0,
+      "text": "ERROR: OCR failed for /var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/fde-video-frames-pp7h1q21/frame-000533.jpg: e5rtError(\"e5rt_execution_stream_operation_create_precompiled_compute_operation_with_options call failed\", 13)"
+    },
+    {
+      "time": 266.5,
+      "text": "ERROR: OCR failed for /var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/fde-video-frames-pp7h1q21/frame-000534.jpg: e5rtError(\"e5rt_execution_stream_operation_create_precompiled_compute_operation_with_options call failed\", 13)"
+    },
+    {
+      "time": 267.0,
+      "text": "ERROR: OCR failed for /var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/fde-video-frames-pp7h1q21/frame-000535.jpg: e5rtError(\"e5rt_execution_stream_operation_create_precompiled_compute_operation_with_options call failed\", 13)"
+    },
+    {
+      "time": 267.5,
+      "text": "ERROR: OCR failed for /var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/fde-video-frames-pp7h1q21/frame-000536.jpg: e5rtError(\"e5rt_execution_stream_operation_create_precompiled_compute_operation_with_options call failed\", 13)"
+    },
+    {
+      "time": 268.0,
+      "text": "ERROR: OCR failed for /var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/fde-video-frames-pp7h1q21/frame-000537.jpg: e5rtError(\"e5rt_execution_stream_operation_create_precompiled_compute_operation_with_options call failed\", 13)"
+    },
+    {
+      "time": 268.5,
+      "text": "ERROR: OCR failed for /var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/fde-video-frames-pp7h1q21/frame-000538.jpg: e5rtError(\"e5rt_execution_stream_operation_create_precompiled_compute_operation_with_options call failed\", 13)"
+    },
+    {
+      "time": 269.0,
+      "text": "ERROR: OCR failed for /var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/fde-video-frames-pp7h1q21/frame-000539.jpg: e5rtError(\"e5rt_execution_stream_operation_create_precompiled_compute_operation_with_options call failed\", 13)"
+    },
+    {
+      "time": 269.5,
+      "text": "ERROR: OCR failed for /var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/fde-video-frames-pp7h1q21/frame-000540.jpg: e5rtError(\"e5rt_execution_stream_operation_create_precompiled_compute_operation_with_options call failed\", 13)"
+    },
+    {
+      "time": 270.0,
+      "text": "ERROR: OCR failed for /var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/fde-video-frames-pp7h1q21/frame-000541.jpg: e5rtError(\"e5rt_execution_stream_operation_create_precompiled_compute_operation_with_options call failed\", 13)"
+    },
+    {
+      "time": 270.5,
+      "text": "ERROR: OCR failed for /var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/fde-video-frames-pp7h1q21/frame-000542.jpg: e5rtError(\"e5rt_execution_stream_operation_create_precompiled_compute_operation_with_options call failed\", 13)"
+    },
+    {
+      "time": 271.0,
+      "text": "ERROR: OCR failed for /var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/fde-video-frames-pp7h1q21/frame-000543.jpg: e5rtError(\"e5rt_execution_stream_operation_create_precompiled_compute_operation_with_options call failed\", 13)"
+    },
+    {
+      "time": 271.5,
+      "text": "ERROR: OCR failed for /var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/fde-video-frames-pp7h1q21/frame-000544.jpg: e5rtError(\"e5rt_execution_stream_operation_create_precompiled_compute_operation_with_options call failed\", 13)"
+    },
+    {
+      "time": 272.0,
+      "text": "ERROR: OCR failed for /var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/fde-video-frames-pp7h1q21/frame-000545.jpg: e5rtError(\"e5rt_execution_stream_operation_create_precompiled_compute_operation_with_options call failed\", 13)"
+    },
+    {
+      "time": 272.5,
+      "text": "ERROR: OCR failed for /var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/fde-video-frames-pp7h1q21/frame-000546.jpg: e5rtError(\"e5rt_execution_stream_operation_create_precompiled_compute_operation_with_options call failed\", 13)"
+    },
+    {
+      "time": 273.0,
+      "text": "ERROR: OCR failed for /var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/fde-video-frames-pp7h1q21/frame-000547.jpg: e5rtError(\"e5rt_execution_stream_operation_create_precompiled_compute_operation_with_options call failed\", 13)"
+    },
+    {
+      "time": 273.5,
+      "text": "ERROR: OCR failed for /var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/fde-video-frames-pp7h1q21/frame-000548.jpg: e5rtError(\"e5rt_execution_stream_operation_create_precompiled_compute_operation_with_options call failed\", 13)"
+    },
+    {
+      "time": 274.0,
+      "text": "ERROR: OCR failed for /var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/fde-video-frames-pp7h1q21/frame-000549.jpg: e5rtError(\"e5rt_execution_stream_operation_create_precompiled_compute_operation_with_options call failed\", 13)"
+    },
+    {
+      "time": 274.5,
+      "text": "ERROR: OCR failed for /var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/fde-video-frames-pp7h1q21/frame-000550.jpg: e5rtError(\"e5rt_execution_stream_operation_create_precompiled_compute_operation_with_options call failed\", 13)"
+    },
+    {
+      "time": 275.0,
+      "text": "ERROR: OCR failed for /var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/fde-video-frames-pp7h1q21/frame-000551.jpg: e5rtError(\"e5rt_execution_stream_operation_create_precompiled_compute_operation_with_options call failed\", 13)"
+    },
+    {
+      "time": 275.5,
+      "text": "ERROR: OCR failed for /var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/fde-video-frames-pp7h1q21/frame-000552.jpg: e5rtError(\"e5rt_execution_stream_operation_create_precompiled_compute_operation_with_options call failed\", 13)"
+    },
+    {
+      "time": 276.5,
+      "text": "现在他们流行的就是11复刻嘛"
+    },
+    {
+      "time": 277.0,
+      "text": "现在他们流行的就是1:1复刻嘛"
+    },
+    {
+      "time": 277.5,
+      "text": "现在他们流行的就是1:1复刻嘛"
+    },
+    {
+      "time": 278.0,
+      "text": "然后把别人爆款的视频素材"
+    },
+    {
+      "time": 278.5,
+      "text": "然后把别人爆款的视频素材"
+    },
+    {
+      "time": 279.0,
+      "text": "然后把别人爆款视频素材"
+    },
+    {
+      "time": 279.5,
+      "text": "然后把别人爆款的视频素材"
+    },
+    {
+      "time": 280.0,
+      "text": ""
+    },
+    {
+      "time": 280.5,
+      "text": "然后1.1复刻成自己的视频素材"
+    },
+    {
+      "time": 281.0,
+      "text": "然后1:1复刻成自己视频素材"
+    },
+    {
+      "time": 281.5,
+      "text": "然后1:1复刻成自己的视频素材"
+    },
+    {
+      "time": 282.0,
+      "text": "然后1:1复刻成自己的视频素材"
+    },
+    {
+      "time": 282.5,
+      "text": "但是他的脚本就是"
+    },
+    {
+      "time": 283.0,
+      "text": "但是他脚本就是"
+    },
+    {
+      "time": 283.5,
+      "text": "但是他的脚本就是"
+    },
+    {
+      "time": 284.0,
+      "text": "整个分镜都是用他"
+    },
+    {
+      "time": 284.5,
+      "text": "整个分镜都是用他"
+    },
+    {
+      "time": 285.0,
+      "text": "整个分镜都是用他"
+    },
+    {
+      "time": 285.5,
+      "text": "就是差不多模仿他"
+    },
+    {
+      "time": 286.0,
+      "text": "就是差不多模仿他的"
+    },
+    {
+      "time": 286.5,
+      "text": "就是差不多模仿他的"
+    },
+    {
+      "time": 287.0,
+      "text": "就节奏是跟他一样的"
+    },
+    {
+      "time": 287.5,
+      "text": "就节奏是跟他一样的"
+    },
+    {
+      "time": 288.5,
+      "text": ""
+    },
+    {
+      "time": 289.0,
+      "text": "对就是其实能做的事情是很多"
+    },
+    {
+      "time": 289.5,
+      "text": "对就是其实能做的事情是很多"
+    },
+    {
+      "time": 290.0,
+      "text": "对就是其实能做的事情是很多的"
+    },
+    {
+      "time": 290.5,
+      "text": "对就是其实能做的事情是很多的"
+    },
+    {
+      "time": 291.0,
+      "text": "对就是其实能做的事情是很多的"
+    },
+    {
+      "time": 291.5,
+      "text": ""
+    },
+    {
+      "time": 292.0,
+      "text": "那我我现在呢"
+    },
+    {
+      "time": 292.5,
+      "text": "那我我现在呢"
+    },
+    {
+      "time": 293.0,
+      "text": "就是我觉得就是可以"
+    },
+    {
+      "time": 293.5,
+      "text": "就是我觉得就是可以"
+    },
+    {
+      "time": 294.0,
+      "text": "就是我觉得就是可以"
+    },
+    {
+      "time": 294.5,
+      "text": "就是交流嘛啊"
+    },
+    {
+      "time": 295.0,
+      "text": "就是交流嘛啊"
+    },
+    {
+      "time": 295.5,
+      "text": ""
+    },
+    {
+      "time": 296.0,
+      "text": "工厂为什么不用"
+    },
+    {
+      "time": 296.5,
+      "text": "工厂为什么不用"
+    },
+    {
+      "time": 297.0,
+      "text": "为什么很多人还是不用"
+    },
+    {
+      "time": 297.5,
+      "text": "为什么很多人还是不用"
+    },
+    {
+      "time": 298.0,
+      "text": "为什么很多人还是不用"
+    },
+    {
+      "time": 298.5,
+      "text": "但我周边的人还是有很多人不用"
+    },
+    {
+      "time": 299.0,
+      "text": "但我周边的人还是有很多人不用"
+    },
+    {
+      "time": 299.5,
+      "text": "但我周边的人还是有很多人不用"
+    },
+    {
+      "time": 300.5,
+      "text": "是的"
+    },
+    {
+      "time": 301.0,
+      "text": "用的都是最基础的"
+    },
+    {
+      "time": 301.5,
+      "text": "用的都是最基础的"
+    },
+    {
+      "time": 302.0,
+      "text": "用的都是最基础的"
+    },
+    {
+      "time": 302.5,
+      "text": "是的是的老板"
+    },
+    {
+      "time": 303.0,
+      "text": "我我我我我的感触是很深的"
+    },
+    {
+      "time": 303.5,
+      "text": "我我我我我的感触是很深的"
+    },
+    {
+      "time": 304.0,
+      "text": "我我我我我的感触是很深"
+    },
+    {
+      "time": 304.5,
+      "text": "我我我我我的感触是很深的"
+    },
+    {
+      "time": 305.0,
+      "text": "因为我本身我是慈溪人我附海人"
+    },
+    {
+      "time": 305.5,
+      "text": "因为我本身我是慈溪人我附海人"
+    },
+    {
+      "time": 306.0,
+      "text": "因为我本身我是慈溪人我附海！"
+    },
+    {
+      "time": 306.5,
+      "text": ""
+    },
+    {
+      "time": 307.0,
+      "text": ""
+    },
+    {
+      "time": 307.5,
+      "text": "呃慈溪这一块它本来就晚"
+    },
+    {
+      "time": 308.0,
+      "text": "呃慈溪这一块它本来就晚"
+    },
+    {
+      "time": 308.5,
+      "text": "呃慈溪这一块它本来就晚"
+    },
+    {
+      "time": 309.0,
+      "text": ""
+    },
+    {
+      "time": 309.5,
+      "text": "在深圳杭州它一定"
+    },
+    {
+      "time": 310.0,
+      "text": "在深圳杭州它一定"
+    },
+    {
+      "time": 310.5,
+      "text": "在深圳杭州它一定"
+    },
+    {
+      "time": 311.0,
+      "text": "ERROR: OCR failed for /var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/fde-video-frames-pp7h1q21/frame-000623.jpg: e5rtError(\"e5rt_execution_stream_operation_create_precompiled_compute_operation_with_options call failed\", 13)"
+    },
+    {
+      "time": 311.5,
+      "text": "ERROR: OCR failed for /var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/fde-video-frames-pp7h1q21/frame-000624.jpg: e5rtError(\"e5rt_execution_stream_operation_create_precompiled_compute_operation_with_options call failed\", 13)"
+    },
+    {
+      "time": 312.5,
+      "text": "ERROR: OCR failed for /var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/fde-video-frames-pp7h1q21/frame-000626.jpg: e5rtError(\"e5rt_execution_stream_operation_create_precompiled_compute_operation_with_options call failed\", 13)"
+    },
+    {
+      "time": 313.0,
+      "text": "ERROR: OCR failed for /var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/fde-video-frames-pp7h1q21/frame-000627.jpg: e5rtError(\"e5rt_execution_stream_operation_create_precompiled_compute_operation_with_options call failed\", 13)"
+    },
+    {
+      "time": 313.5,
+      "text": "ERROR: OCR failed for /var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/fde-video-frames-pp7h1q21/frame-000628.jpg: e5rtError(\"e5rt_execution_stream_operation_create_precompiled_compute_operation_with_options call failed\", 13)"
+    },
+    {
+      "time": 314.0,
+      "text": "ERROR: OCR failed for /var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/fde-video-frames-pp7h1q21/frame-000629.jpg: e5rtError(\"e5rt_execution_stream_operation_create_precompiled_compute_operation_with_options call failed\", 13)"
+    },
+    {
+      "time": 314.5,
+      "text": "ERROR: OCR failed for /var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/fde-video-frames-pp7h1q21/frame-000630.jpg: e5rtError(\"e5rt_execution_stream_operation_create_precompiled_compute_operation_with_options call failed\", 13)"
+    },
+    {
+      "time": 315.0,
+      "text": "ERROR: OCR failed for /var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/fde-video-frames-pp7h1q21/frame-000631.jpg: e5rtError(\"e5rt_execution_stream_operation_create_precompiled_compute_operation_with_options call failed\", 13)"
+    },
+    {
+      "time": 315.5,
+      "text": "ERROR: OCR failed for /var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/fde-video-frames-pp7h1q21/frame-000632.jpg: e5rtError(\"e5rt_execution_stream_operation_create_precompiled_compute_operation_with_options call failed\", 13)"
+    },
+    {
+      "time": 316.0,
+      "text": "ERROR: OCR failed for /var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/fde-video-frames-pp7h1q21/frame-000633.jpg: e5rtError(\"e5rt_execution_stream_operation_create_precompiled_compute_operation_with_options call failed\", 13)"
+    },
+    {
+      "time": 316.5,
+      "text": "ERROR: OCR failed for /var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/fde-video-frames-pp7h1q21/frame-000634.jpg: e5rtError(\"e5rt_execution_stream_operation_create_precompiled_compute_operation_with_options call failed\", 13)"
+    },
+    {
+      "time": 317.0,
+      "text": "ERROR: OCR failed for /var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/fde-video-frames-pp7h1q21/frame-000635.jpg: e5rtError(\"e5rt_execution_stream_operation_create_precompiled_compute_operation_with_options call failed\", 13)"
+    },
+    {
+      "time": 317.5,
+      "text": "ERROR: OCR failed for /var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/fde-video-frames-pp7h1q21/frame-000636.jpg: e5rtError(\"e5rt_execution_stream_operation_create_precompiled_compute_operation_with_options call failed\", 13)"
+    },
+    {
+      "time": 318.0,
+      "text": "ERROR: OCR failed for /var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/fde-video-frames-pp7h1q21/frame-000637.jpg: e5rtError(\"e5rt_execution_stream_operation_create_precompiled_compute_operation_with_options call failed\", 13)"
+    },
+    {
+      "time": 318.5,
+      "text": "ERROR: OCR failed for /var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/fde-video-frames-pp7h1q21/frame-000638.jpg: e5rtError(\"e5rt_execution_stream_operation_create_precompiled_compute_operation_with_options call failed\", 13)"
+    },
+    {
+      "time": 319.0,
+      "text": "ERROR: OCR failed for /var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/fde-video-frames-pp7h1q21/frame-000639.jpg: e5rtError(\"e5rt_execution_stream_operation_create_precompiled_compute_operation_with_options call failed\", 13)"
+    },
+    {
+      "time": 319.5,
+      "text": "ERROR: OCR failed for /var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/fde-video-frames-pp7h1q21/frame-000640.jpg: e5rtError(\"e5rt_execution_stream_operation_create_precompiled_compute_operation_with_options call failed\", 13)"
+    },
+    {
+      "time": 320.0,
+      "text": "ERROR: OCR failed for /var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/fde-video-frames-pp7h1q21/frame-000641.jpg: e5rtError(\"e5rt_execution_stream_operation_create_precompiled_compute_operation_with_options call failed\", 13)"
+    },
+    {
+      "time": 320.5,
+      "text": "ERROR: OCR failed for /var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/fde-video-frames-pp7h1q21/frame-000642.jpg: e5rtError(\"e5rt_execution_stream_operation_create_precompiled_compute_operation_with_options call failed\", 13)"
+    },
+    {
+      "time": 321.0,
+      "text": "ERROR: OCR failed for /var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/fde-video-frames-pp7h1q21/frame-000643.jpg: e5rtError(\"e5rt_execution_stream_operation_create_precompiled_compute_operation_with_options call failed\", 13)"
+    },
+    {
+      "time": 321.5,
+      "text": "ERROR: OCR failed for /var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/fde-video-frames-pp7h1q21/frame-000644.jpg: e5rtError(\"e5rt_execution_stream_operation_create_precompiled_compute_operation_with_options call failed\", 13)"
+    },
+    {
+      "time": 322.0,
+      "text": "ERROR: OCR failed for /var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/fde-video-frames-pp7h1q21/frame-000645.jpg: e5rtError(\"e5rt_execution_stream_operation_create_precompiled_compute_operation_with_options call failed\", 13)"
+    },
+    {
+      "time": 322.5,
+      "text": "ERROR: OCR failed for /var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/fde-video-frames-pp7h1q21/frame-000646.jpg: e5rtError(\"e5rt_execution_stream_operation_create_precompiled_compute_operation_with_options call failed\", 13)"
+    },
+    {
+      "time": 323.0,
+      "text": "ERROR: OCR failed for /var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/fde-video-frames-pp7h1q21/frame-000647.jpg: e5rtError(\"e5rt_execution_stream_operation_create_precompiled_compute_operation_with_options call failed\", 13)"
+    },
+    {
+      "time": 323.5,
+      "text": "ERROR: OCR failed for /var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/fde-video-frames-pp7h1q21/frame-000648.jpg: e5rtError(\"e5rt_execution_stream_operation_create_precompiled_compute_operation_with_options call failed\", 13)"
+    },
+    {
+      "time": 324.5,
+      "text": "就自己很嗨"
+    },
+    {
+      "time": 325.0,
+      "text": ""
+    },
+    {
+      "time": 325.5,
+      "text": "然后大家呢"
+    },
+    {
+      "time": 326.0,
+      "text": "没有用AI的大家都不知道"
+    },
+    {
+      "time": 326.5,
+      "text": "没有用AI的大家都不知道"
+    },
+    {
+      "time": 327.0,
+      "text": "没有用AI的大家都不知道"
+    },
+    {
+      "time": 327.5,
+      "text": ""
+    },
+    {
+      "time": 328.0,
+      "text": "它有一个巨大的鸿沟"
+    },
+    {
+      "time": 328.5,
+      "text": "它有一个巨大的鸿沟"
+    },
+    {
+      "time": 329.0,
+      "text": "它有一个巨大鸿沟"
+    },
+    {
+      "time": 329.5,
+      "text": "我是主要做智能体"
+    },
+    {
+      "time": 330.0,
+      "text": "我是主要做智能体的"
+    },
+    {
+      "time": 330.5,
+      "text": "少\n我是主要做智能体"
+    },
+    {
+      "time": 331.0,
+      "text": "我夫\n我现在微信上接入的就是"
+    },
+    {
+      "time": 331.5,
+      "text": "我现在微信上接入的就是"
+    },
+    {
+      "time": 332.0,
+      "text": ""
+    },
+    {
+      "time": 332.5,
+      "text": "Htwo\n我自己的那个数字员工"
+    },
+    {
+      "time": 333.0,
+      "text": "我自己的那个数字员工"
+    },
+    {
+      "time": 333.5,
+      "text": "我自己的那个数字员工"
+    },
+    {
+      "time": 334.0,
+      "text": "叫做沛总秘书"
+    },
+    {
+      "time": 334.5,
+      "text": "叫做沛总秘书"
+    },
+    {
+      "time": 335.0,
+      "text": "这是AI标志"
+    },
+    {
+      "time": 335.5,
+      "text": "这是Al标志"
+    },
+    {
+      "time": 336.5,
+      "text": "农天川\n然后然后这个不是小龙虾啊"
+    },
+    {
+      "time": 337.0,
+      "text": "然后然后这个不是小龙虾啊"
+    },
+    {
+      "time": 337.5,
+      "text": "然后然后这个不是小龙虾啊"
+    },
+    {
+      "time": 338.0,
+      "text": "然后然后这个不是小龙虾啊"
+    },
+    {
+      "time": 338.5,
+      "text": "这个不是小龙虾"
+    },
+    {
+      "time": 339.0,
+      "text": "这个不是小龙虾"
+    },
+    {
+      "time": 339.5,
+      "text": "农大"
+    },
+    {
+      "time": 340.0,
+      "text": "因为小龙虾它已经过时了"
+    },
+    {
+      "time": 340.5,
+      "text": "因为小龙虾它已经过时了"
+    },
+    {
+      "time": 341.0,
+      "text": "因为小龙虾它已经过时了"
+    },
+    {
+      "time": 341.5,
+      "text": ""
+    },
+    {
+      "time": 342.0,
+      "text": "农夫！\n我这个接入的是更好"
+    },
+    {
+      "time": 342.5,
+      "text": "我这个接入的是更好"
+    },
+    {
+      "time": 343.0,
+      "text": "然夫\n那个智能体架构"
+    },
+    {
+      "time": 343.5,
+      "text": "牧夫\n的那个智能体架构"
+    },
+    {
+      "time": 344.0,
+      "text": ""
+    },
+    {
+      "time": 344.5,
+      "text": "然后它可以每天来"
+    },
+    {
+      "time": 345.0,
+      "text": "終天\n然后它可以每天来"
+    },
+    {
+      "time": 345.5,
+      "text": "提醒我每天要做什么"
+    },
+    {
+      "time": 346.0,
+      "text": "提醒我每天要做什么"
+    },
+    {
+      "time": 346.5,
+      "text": "提醒我每天要做什么"
+    },
+    {
+      "time": 347.0,
+      "text": "啊那这个场景可能比较小"
+    },
+    {
+      "time": 347.5,
+      "text": "啊那这个场景可能比较小"
+    },
+    {
+      "time": 348.5,
+      "text": "就比如说我自己定的就是呃"
+    },
+    {
+      "time": 349.0,
+      "text": "我夫\n就比如说我自己定的就是呃"
+    },
+    {
+      "time": 349.5,
+      "text": "农天\n就比如说我自己定的就是呃"
+    },
+    {
+      "time": 350.0,
+      "text": "就比如说我自己定的就是呃"
+    },
+    {
+      "time": 350.5,
+      "text": "就比如说我自己定的就是呃"
+    },
+    {
+      "time": 351.0,
+      "text": "那我觉得老板是非常适用的"
+    },
+    {
+      "time": 351.5,
+      "text": "那我觉得老板是非常适用的"
+    },
+    {
+      "time": 352.0,
+      "text": "那我觉得老板是非常适用的"
+    },
+    {
+      "time": 352.5,
+      "text": "就是每天要干什么它"
+    },
+    {
+      "time": 353.0,
+      "text": "就是每天要干什么它"
+    },
+    {
+      "time": 353.5,
+      "text": "就是每天要干什么它"
+    },
+    {
+      "time": 354.0,
+      "text": "我可以让它隔一个小时提醒我"
+    },
+    {
+      "time": 354.5,
+      "text": "我可以让它隔一个小时提醒我"
+    },
+    {
+      "time": 355.0,
+      "text": "我可以让它隔一个小时提醒我"
+    },
+    {
+      "time": 355.5,
+      "text": "这个是。"
+    },
+    {
+      "time": 356.0,
+      "text": "农天\n这个是一个"
+    },
+    {
+      "time": 356.5,
+      "text": "衣夫\n然后呢它可以帮我写文案"
+    },
+    {
+      "time": 357.0,
+      "text": "然后呢它可以帮我写文案"
+    },
+    {
+      "time": 357.5,
+      "text": "WF\n然后呢它可以帮我写文案"
+    },
+    {
+      "time": 358.0,
+      "text": "袋夫！"
+    },
+    {
+      "time": 358.5,
+      "text": "那包括我一些问题也跟它交流"
+    },
+    {
+      "time": 359.0,
+      "text": "我×\n那包括我一些问题也跟它交流"
+    },
+    {
+      "time": 359.5,
+      "text": "那包括我一些问题也跟它交流"
+    },
+    {
+      "time": 360.5,
+      "text": "那肯定比豆包要好"
+    },
+    {
+      "time": 361.0,
+      "text": "它是怎么学会它"
+    },
+    {
+      "time": 361.5,
+      "text": "它是怎么学会它"
+    },
+    {
+      "time": 362.0,
+      "text": "鈴夫\n它是怎么学会它"
+    },
+    {
+      "time": 362.5,
+      "text": "你这个智能体"
+    },
+    {
+      "time": 363.0,
+      "text": "你这个智能体"
+    },
+    {
+      "time": 363.5,
+      "text": ""
+    },
+    {
+      "time": 364.0,
+      "text": "你这个智能体与文案钓具体"
+    },
+    {
+      "time": 364.5,
+      "text": "你这个智能体写文案具体"
+    },
+    {
+      "time": 365.0,
+      "text": "你这个智能体写文案的具体"
+    },
+    {
+      "time": 365.5,
+      "text": "你这个智能体写文案具体"
+    },
+    {
+      "time": 366.0,
+      "text": "逻辑跟框架是怎么写"
+    },
+    {
+      "time": 366.5,
+      "text": "逻辑跟框架是怎么写"
+    },
+    {
+      "time": 367.0,
+      "text": "逻辑跟框架是怎么写"
+    },
+    {
+      "time": 367.5,
+      "text": "呃就是要按照我人风格来写\nな天川"
+    },
+    {
+      "time": 368.0,
+      "text": "Hxtu2\n呃就是要按照我人风格来写"
+    },
+    {
+      "time": 368.5,
+      "text": "呃就是要按照我人风格来写"
+    },
+    {
+      "time": 369.0,
+      "text": "呃就是要按照我人的风格来写"
+    },
+    {
+      "time": 369.5,
+      "text": ""
+    },
+    {
+      "time": 370.0,
+      "text": ""
+    },
+    {
+      "time": 370.5,
+      "text": "他他他底层"
+    },
+    {
+      "time": 371.0,
+      "text": "ERROR: OCR failed for /var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/fde-video-frames-pp7h1q21/frame-000743.jpg: e5rtError(\"e5rt_execution_stream_operation_create_precompiled_compute_operation_with_options call failed\", 13)"
+    },
+    {
+      "time": 371.5,
+      "text": "ERROR: OCR failed for /var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/fde-video-frames-pp7h1q21/frame-000744.jpg: e5rtError(\"e5rt_execution_stream_operation_create_precompiled_compute_operation_with_options call failed\", 13)"
+    },
+    {
+      "time": 372.5,
+      "text": "他底层是懂我的他他他"
+    },
+    {
+      "time": 373.0,
+      "text": "农夫山\n他底层是懂我的他他他"
+    },
+    {
+      "time": 373.5,
+      "text": "农天10\n底层怎么懂你"
+    },
+    {
+      "time": 374.0,
+      "text": "农夫！\n底层怎么懂你"
+    },
+    {
+      "time": 374.5,
+      "text": "因为我把那个资料词库搭好了"
+    },
+    {
+      "time": 375.0,
+      "text": "因为我把那个资料词库搭好了"
+    },
+    {
+      "time": 375.5,
+      "text": "因为我把那个资料词库搭好了"
+    },
+    {
+      "time": 376.0,
+      "text": "因为我把那个资料词库搭好了"
+    },
+    {
+      "time": 376.5,
+      "text": ""
+    },
+    {
+      "time": 377.0,
+      "text": "因为我们做比较多的是"
+    },
+    {
+      "time": 377.5,
+      "text": "因为我们做比较多的是"
+    },
+    {
+      "time": 378.0,
+      "text": "市场市场调研东西"
+    },
+    {
+      "time": 378.5,
+      "text": "市场市场调研的东西"
+    },
+    {
+      "time": 379.0,
+      "text": "市场市场调研的东西"
+    },
+    {
+      "time": 379.5,
+      "text": "啊市场调研"
+    },
+    {
+      "time": 380.0,
+      "text": "数据调研"
+    },
+    {
+      "time": 380.5,
+      "text": "数据调研"
+    },
+    {
+      "time": 381.0,
+      "text": "但是呢我们给他喂了数据库"
+    },
+    {
+      "time": 381.5,
+      "text": "但是呢我们给他喂了数据库"
+    },
+    {
+      "time": 382.0,
+      "text": "但是呢我们给他喂了数据库"
+    },
+    {
+      "time": 382.5,
+      "text": "但是呢我们给他喂了数据库"
+    },
+    {
+      "time": 383.0,
+      "text": ""
+    },
+    {
+      "time": 383.5,
+      "text": "喂了数据也喂过"
+    },
+    {
+      "time": 384.5,
+      "text": "喂了数据也喂过"
+    },
+    {
+      "time": 385.0,
+      "text": "哦数据库你们有有搭是吧"
+    },
+    {
+      "time": 385.5,
+      "text": "哦数据库你们有有搭是吧"
+    },
+    {
+      "time": 386.0,
+      "text": "哦数据库你们有有搭是吧"
+    },
+    {
+      "time": 386.5,
+      "text": "我们有的呀"
+    },
+    {
+      "time": 387.0,
+      "text": "我们有的呀"
+    },
+    {
+      "time": 387.5,
+      "text": "我只不过是不愿意"
+    },
+    {
+      "time": 388.0,
+      "text": "我只不过是不愿意"
+    },
+    {
+      "time": 388.5,
+      "text": "跟有些不太懂的人"
+    },
+    {
+      "time": 389.0,
+      "text": "跟有些不太懂的人"
+    },
+    {
+      "time": 389.5,
+      "text": "哦明自明自"
+    },
+    {
+      "time": 390.0,
+      "text": ""
+    },
+    {
+      "time": 390.5,
+      "text": "您您是用本地还是飞书还是"
+    },
+    {
+      "time": 391.0,
+      "text": "您您是用本地还是飞书还是"
+    },
+    {
+      "time": 391.5,
+      "text": "您您是用本地还是飞书还是"
+    },
+    {
+      "time": 392.0,
+      "text": "您您是用本地还是飞书还是"
+    },
+    {
+      "time": 392.5,
+      "text": ""
+    },
+    {
+      "time": 393.0,
+      "text": "我们跟他"
+    },
+    {
+      "time": 393.5,
+      "text": "obsidian"
+    },
+    {
+      "time": 394.0,
+      "text": "这个这个也搭过"
+    },
+    {
+      "time": 394.5,
+      "text": "这个这个也搭过"
+    },
+    {
+      "time": 395.0,
+      "text": "飞书也有"
+    },
+    {
+      "time": 395.5,
+      "text": "自\n我们很多数据"
+    },
+    {
+      "time": 396.5,
+      "text": "我们直接扔给他"
+    },
+    {
+      "time": 397.0,
+      "text": "让他去学"
+    },
+    {
+      "time": 397.5,
+      "text": ""
+    },
+    {
+      "time": 398.0,
+      "text": "我们有些直接视频再"
+    },
+    {
+      "time": 398.5,
+      "text": "我们有些直接视频再"
+    },
+    {
+      "time": 399.0,
+      "text": "跟他去学一学一的"
+    },
+    {
+      "time": 399.5,
+      "text": "跟他去学一学一的"
+    },
+    {
+      "time": 400.0,
+      "text": "学完以后我们发现"
+    },
+    {
+      "time": 400.5,
+      "text": "学完以后我们发现"
+    },
+    {
+      "time": 401.0,
+      "text": "玉真\n学完以后我们发现"
+    },
+    {
+      "time": 401.5,
+      "text": ""
+    },
+    {
+      "time": 402.0,
+      "text": ""
+    },
+    {
+      "time": 402.5,
+      "text": "其实效果也不是非常好"
+    },
+    {
+      "time": 403.0,
+      "text": "其实效果也不是非常好"
+    },
+    {
+      "time": 403.5,
+      "text": "其实效果也不是非常好"
+    },
+    {
+      "time": 404.0,
+      "text": "其实效果也不是非常好"
+    },
+    {
+      "time": 404.5,
+      "text": "我们其实因为"
+    },
+    {
+      "time": 405.0,
+      "text": "我们其实因为"
+    },
+    {
+      "time": 405.5,
+      "text": "其实对有些行业来说"
+    },
+    {
+      "time": 406.0,
+      "text": "其实对有些行业来说"
+    },
+    {
+      "time": 406.5,
+      "text": "其实对有些行业来说"
+    },
+    {
+      "time": 407.0,
+      "text": "它重复工作多"
+    },
+    {
+      "time": 407.5,
+      "text": "它重复工作多"
+    },
+    {
+      "time": 408.5,
+      "text": "但是我们需要是挖到一些"
+    },
+    {
+      "time": 409.0,
+      "text": "但是我们需要的是挖到一些"
+    },
+    {
+      "time": 409.5,
+      "text": "但是我们需要的是挖到一些"
+    },
+    {
+      "time": 410.0,
+      "text": "明白别人看不到东西"
+    },
+    {
+      "time": 410.5,
+      "text": "明白别人看不到的东西"
+    },
+    {
+      "time": 411.0,
+      "text": "嗯我觉得现在的AI"
+    },
+    {
+      "time": 411.5,
+      "text": ""
+    },
+    {
+      "time": 412.0,
+      "text": "嗯我觉得现在的AI"
+    },
+    {
+      "time": 412.5,
+      "text": "嗯我觉得现在AI\n孜天"
+    },
+    {
+      "time": 413.0,
+      "text": "就是技术来说"
+    },
+    {
+      "time": 413.5,
+      "text": "就是技术来说"
+    },
+    {
+      "time": 414.0,
+      "text": "就是可以走得很高"
+    },
+    {
+      "time": 414.5,
+      "text": "就是可以走得很高"
+    },
+    {
+      "time": 415.0,
+      "text": "就是可以走得很高"
+    },
+    {
+      "time": 415.5,
+      "text": "它对我来说就是要落地"
+    },
+    {
+      "time": 416.0,
+      "text": "它对我来说就是要落地"
+    },
+    {
+      "time": 416.5,
+      "text": "它对我来说就是要落地"
+    },
+    {
+      "time": 417.0,
+      "text": "对于对于你们来说"
+    },
+    {
+      "time": 417.5,
+      "text": "对于对于你们来说"
+    },
+    {
+      "time": 418.0,
+      "text": "做业务的来说\n2"
+    },
+    {
+      "time": 418.5,
+      "text": "就是可能要用得更深一点就是"
+    },
+    {
+      "time": 419.0,
+      "text": "就是可能要用得更深一点就是"
+    },
+    {
+      "time": 419.5,
+      "text": "就是可能要用得更深一点就是"
+    },
+    {
+      "time": 420.5,
+      "text": "就是可能要用得更深一点就是"
+    },
+    {
+      "time": 421.0,
+      "text": "我们需要是它有经济效益"
+    },
+    {
+      "time": 421.5,
+      "text": "我们需要是它有经济效益"
+    },
+    {
+      "time": 422.0,
+      "text": "我们需要的是它有经济效益"
+    },
+    {
+      "time": 422.5,
+      "text": "我们需要的是它有经济效益"
+    },
+    {
+      "time": 423.0,
+      "text": "啊其实经济效益这个ROl是"
+    },
+    {
+      "time": 423.5,
+      "text": "啊其实经济效益这个ROI是"
+    },
+    {
+      "time": 424.0,
+      "text": "啊其实经济效益这个ROI是"
+    },
+    {
+      "time": 424.5,
+      "text": "啊其实经济效益这个RO堤"
+    },
+    {
+      "time": 425.0,
+      "text": "kalmim\n啊其实经济效益这个ROl"
+    },
+    {
+      "time": 425.5,
+      "text": "就是它不是一下子能就能那个的"
+    },
+    {
+      "time": 426.0,
+      "text": "就是它不是一下子能就能那个"
+    },
+    {
+      "time": 426.5,
+      "text": "就是它不是一下子能就能那个自"
+    },
+    {
+      "time": 427.0,
+      "text": "就是它不是一下子能就能那个"
+    },
+    {
+      "time": 427.5,
+      "text": "它也是需要有一个过程"
+    },
+    {
+      "time": 428.0,
+      "text": "它也是需要有一个过程"
+    },
+    {
+      "time": 428.5,
+      "text": "你觉得AI的经济效益是有经济效益"
+    },
+    {
+      "time": 429.0,
+      "text": "你觉得AI的经济效益是有经济效益"
+    },
+    {
+      "time": 429.5,
+      "text": "你觉得AI的经济效益是有经济效益"
+    },
+    {
+      "time": 430.0,
+      "text": "你觉得AI的经济效益是有经济效益"
+    },
+    {
+      "time": 430.5,
+      "text": "你觉得A的经济效益是有经济效益"
+    },
+    {
+      "time": 431.0,
+      "text": "到底有多大经济效益"
+    },
+    {
+      "time": 431.5,
+      "text": "到底有多大的经济效益"
+    },
+    {
+      "time": 432.5,
+      "text": "是不是取决于使用AI的人"
+    },
+    {
+      "time": 433.0,
+      "text": "是不是取决于使用AI的人"
+    },
+    {
+      "time": 433.5,
+      "text": "是不是取决于使用AI的人"
+    },
+    {
+      "time": 434.0,
+      "text": "对"
+    },
+    {
+      "time": 434.5,
+      "text": ""
+    },
+    {
+      "time": 435.0,
+      "text": "wed\nマド・Tリント\n监监"
+    },
+    {
+      "time": 435.5,
+      "text": "KTT\n我觉得就是要稍微再深度使用一点"
+    },
+    {
+      "time": 436.0,
+      "text": "我觉得就是要稍微再深度使用一点★"
+    },
+    {
+      "time": 436.5,
+      "text": "我觉得就是要稍微再深度使用一点"
+    },
+    {
+      "time": 437.0,
+      "text": "我觉得就是要稍微再深度使用一点"
+    },
+    {
+      "time": 437.5,
+      "text": "我觉得就是要稍微再深度使用一点"
+    },
+    {
+      "time": 438.0,
+      "text": "然后再高阶一点"
+    },
+    {
+      "time": 438.5,
+      "text": "然后再高阶一点"
+    },
+    {
+      "time": 439.0,
+      "text": "比如说呃你就像说的就像说的"
+    },
+    {
+      "time": 439.5,
+      "text": "比如说呃你就像说的就像说"
+    },
+    {
+      "time": 440.0,
+      "text": "比如说呃你就像说的就像说"
+    },
+    {
+      "time": 440.5,
+      "text": "比如说呃你就像说的就像说的"
+    },
+    {
+      "time": 441.0,
+      "text": "比如说呃你就像说的就像说的"
+    },
+    {
+      "time": 441.5,
+      "text": "你蒸馏对吧"
+    },
+    {
+      "time": 442.0,
+      "text": "你的蒸馏对吧"
+    },
+    {
+      "time": 442.5,
+      "text": "你蒸馏对吧"
+    },
+    {
+      "time": 443.0,
+      "text": "蒸留不是蒸馏一个人"
+    },
+    {
+      "time": 443.5,
+      "text": "蒸馏不是蒸馏一个人"
+    },
+    {
+      "time": 444.5,
+      "text": "他其实蒸馏你整个人的"
+    },
+    {
+      "time": 445.0,
+      "text": "他其实蒸馏你整个人的"
+    },
+    {
+      "time": 445.5,
+      "text": "就是你每天的工作业务流程"
+    },
+    {
+      "time": 446.0,
+      "text": "就是你每天的工作业务流程"
+    },
+    {
+      "time": 446.5,
+      "text": "就是你每天的工作业务流程"
+    },
+    {
+      "time": 447.0,
+      "text": "他也是可以蒸馏白"
+    },
+    {
+      "time": 447.5,
+      "text": "比如说skill"
+    },
+    {
+      "time": 448.0,
+      "text": "比如说skill"
+    },
+    {
+      "time": 448.5,
+      "text": "把它做成一个技能"
+    },
+    {
+      "time": 449.0,
+      "text": "把它做成一个技能"
+    },
+    {
+      "time": 449.5,
+      "text": "就是可能一个技能它就是"
+    },
+    {
+      "time": 450.0,
+      "text": "就是可能一个技能它就是"
+    },
+    {
+      "time": 450.5,
+      "text": "就是可能一个技能它就是"
+    },
+    {
+      "time": 451.0,
+      "text": "个你的每天这一项工作SOP"
+    },
+    {
+      "time": 451.5,
+      "text": "一个你的每天这一项工作的SOP"
+    },
+    {
+      "time": 452.0,
+      "text": "一个你的每天这一项工作的SOP"
+    },
+    {
+      "time": 452.5,
+      "text": "一个你的每天这一项工作的SOP"
+    },
+    {
+      "time": 453.0,
+      "text": ""
+    },
+    {
+      "time": 453.5,
+      "text": "第一步要干嘛"
+    },
+    {
+      "time": 454.0,
+      "text": "第二步要干嘛"
+    },
+    {
+      "time": 454.5,
+      "text": "第三步要干嘛"
+    },
+    {
+      "time": 455.0,
+      "text": "第四步干嘛"
+    },
+    {
+      "time": 455.5,
+      "text": "无论是落地还是用AI改造业务流"
+    },
+    {
+      "time": 456.5,
+      "text": "无论是落地还是用Al改造业务流"
+    },
+    {
+      "time": 457.0,
+      "text": "无论是落地还是用AI改造业务流"
+    },
+    {
+      "time": 457.5,
+      "text": "无论是落地还是用A改造业务流"
+    },
+    {
+      "time": 458.0,
+      "text": "无论是落地还是用Al改造业务流"
+    },
+    {
+      "time": 458.5,
+      "text": "还是工作流还是用什么东西"
+    },
+    {
+      "time": 459.0,
+      "text": "还是工作流还是用什么东西"
+    },
+    {
+      "time": 459.5,
+      "text": "还是工作流还是用什么东西"
+    },
+    {
+      "time": 460.0,
+      "text": "它是需要费很多心力齣"
+    },
+    {
+      "time": 460.5,
+      "text": "它是需要费很多心力"
+    },
+    {
+      "time": 461.0,
+      "text": "它是需要费很多心力的"
+    },
+    {
+      "time": 461.5,
+      "text": "它是需要费很多心力的"
+    },
+    {
+      "time": 462.0,
+      "text": ""
+    },
+    {
+      "time": 462.5,
+      "text": "因为就像你说要研究嘛对吧"
+    },
+    {
+      "time": 463.0,
+      "text": "因为就像你说要研究嘛对吧"
+    },
+    {
+      "time": 463.5,
+      "text": "要去推动"
+    },
+    {
+      "time": 464.0,
+      "text": "要去推动"
+    },
+    {
+      "time": 464.5,
+      "text": "还要推进这个事情"
+    },
+    {
+      "time": 465.0,
+      "text": "还要推进这个事情"
+    },
+    {
+      "time": 465.5,
+      "text": "还要推进这个事情"
+    },
+    {
+      "time": 466.0,
+      "text": "要把它给"
+    },
+    {
+      "time": 466.5,
+      "text": "要把它给"
+    },
+    {
+      "time": 467.0,
+      "text": "就是强行的"
+    },
+    {
+      "time": 467.5,
+      "text": "就是强行"
+    },
+    {
+      "time": 468.5,
+      "text": "就是相当于自己的习慣要掰掰过来"
+    },
+    {
+      "time": 469.0,
+      "text": "就是相当于自己的习惯要掰掰过来"
+    },
+    {
+      "time": 469.5,
+      "text": "就是相当于自己的习惯要掰掰过来"
+    },
+    {
+      "time": 470.0,
+      "text": "我觉得很"
+    },
+    {
+      "time": 470.5,
+      "text": "这个东西难弄"
+    },
+    {
+      "time": 471.0,
+      "text": "这个东西难弄"
+    },
+    {
+      "time": 471.5,
+      "text": "不是说大家不想弄"
+    },
+    {
+      "time": 472.0,
+      "text": "不是说大家不想弄"
+    },
+    {
+      "time": 472.5,
+      "text": "不是说大家不想弄"
+    },
+    {
+      "time": 473.0,
+      "text": "即使有了概念"
+    },
+    {
+      "time": 473.5,
+      "text": "即使有了概念"
+    },
+    {
+      "time": 474.0,
+      "text": ""
+    },
+    {
+      "time": 474.5,
+      "text": "也不是说不想弄"
+    },
+    {
+      "time": 475.0,
+      "text": "也不是说不想弄"
+    },
+    {
+      "time": 475.5,
+      "text": "1座\n其实大家都知道这东西好"
+    },
+    {
+      "time": 476.0,
+      "text": "其实大家都知道这东西好"
+    },
+    {
+      "time": 476.5,
+      "text": "嗯嗯"
+    },
+    {
+      "time": 477.0,
+      "text": "但是一可能就像你说"
+    },
+    {
+      "time": 477.5,
+      "text": "但是一可能就像你说"
+    },
+    {
+      "time": 478.0,
+      "text": "不知道怎么弄哦"
+    },
+    {
+      "time": 478.5,
+      "text": "興最止"
+    },
+    {
+      "time": 479.0,
+      "text": "不知道怎么弄哦"
+    },
+    {
+      "time": 479.5,
+      "text": "在弄时候可能突然发现"
+    },
+    {
+      "time": 480.5,
+      "text": "在弄时候可能突然发现"
+    },
+    {
+      "time": 481.0,
+      "text": ""
+    },
+    {
+      "time": 481.5,
+      "text": ""
+    },
+    {
+      "time": 482.0,
+      "text": "数据没有"
+    },
+    {
+      "time": 482.5,
+      "text": "到现在为止"
+    },
+    {
+      "time": 483.0,
+      "text": "到现在为止"
+    },
+    {
+      "time": 483.5,
+      "text": "大家就是流行一个概念叫FDE嘛啊"
+    },
+    {
+      "time": 484.0,
+      "text": "大家就是流行一个概念叫FDE嘛啊"
+    },
+    {
+      "time": 484.5,
+      "text": "大家就是流行一个概念叫FDE嘛啊"
+    },
+    {
+      "time": 485.0,
+      "text": "就是前沿部署工程师"
+    },
+    {
+      "time": 485.5,
+      "text": "就是前沿部署工程师"
+    },
+    {
+      "time": 486.0,
+      "text": "就是前沿部署工程师"
+    },
+    {
+      "time": 486.5,
+      "text": "那这个概念就是其实在"
+    },
+    {
+      "time": 487.0,
+      "text": "那这个概念就是其实在"
+    },
+    {
+      "time": 487.5,
+      "text": "那这个概念就是其实在"
+    },
+    {
+      "time": 488.0,
+      "text": "那个深圳和杭州比较火"
+    },
+    {
+      "time": 488.5,
+      "text": "那个深圳和杭州比较火"
+    },
+    {
+      "time": 489.0,
+      "text": "那个深圳和杭州比较火"
+    },
+    {
+      "time": 489.5,
+      "text": "那个深圳和杭州比较火"
+    },
+    {
+      "time": 490.0,
+      "text": "那个深圳和杭州比较火"
+    },
+    {
+      "time": 490.5,
+      "text": "就是大的互联网公司"
+    },
+    {
+      "time": 491.0,
+      "text": "就是大的互联网公司"
+    },
+    {
+      "time": 491.5,
+      "text": "大大的公司"
+    },
+    {
+      "time": 492.5,
+      "text": "他们就需要去用AI去改造全部流程"
+    },
+    {
+      "time": 493.0,
+      "text": "他们就需要去用AI去改造全部流程"
+    },
+    {
+      "time": 493.5,
+      "text": "他们就需要去用A去改造全部流程"
+    },
+    {
+      "time": 494.0,
+      "text": "他们就需要去用AI去改造全部流程"
+    },
+    {
+      "time": 494.5,
+      "text": "他们就需要去用AI去改造全部流程"
+    },
+    {
+      "time": 495.0,
+      "text": "他们就需要去用AI去改造全部流程"
+    },
+    {
+      "time": 495.5,
+      "text": "然后呃因为A来了"
+    },
+    {
+      "time": 496.0,
+      "text": "然后呃因为A1来了"
+    },
+    {
+      "time": 496.5,
+      "text": "然后呃因为AI来了"
+    },
+    {
+      "time": 497.0,
+      "text": "他们要根据AI去重新"
+    },
+    {
+      "time": 497.5,
+      "text": "他们要根据AI去重新的"
+    },
+    {
+      "time": 498.0,
+      "text": "他们要根据AI去重新的"
+    },
+    {
+      "time": 498.5,
+      "text": "定制自己的业务流程了"
+    },
+    {
+      "time": 499.0,
+      "text": "定制自己的业务流程了"
+    },
+    {
+      "time": 499.5,
+      "text": "定制自己的业务流程了"
+    },
+    {
+      "time": 500.0,
+      "text": "就在A交互协作的过程中"
+    },
+    {
+      "time": 500.5,
+      "text": "就在A交互协作的过程中"
+    },
+    {
+      "time": 501.0,
+      "text": "就在AI交互协作的过程中"
+    },
+    {
+      "time": 501.5,
+      "text": "就在AI交互协作的过程中"
+    },
+    {
+      "time": 502.0,
+      "text": "一个高效流程"
+    },
+    {
+      "time": 502.5,
+      "text": "一个高效流程"
+    },
+    {
+      "time": 503.0,
+      "text": "一个高效的流程"
+    },
+    {
+      "time": 503.5,
+      "text": "一个高效流程"
+    },
+    {
+      "time": 504.5,
+      "text": "就是首先员工跟员工"
+    },
+    {
+      "time": 505.0,
+      "text": "就是首先员工跟员工"
+    },
+    {
+      "time": 505.5,
+      "text": "就是首先员工跟员工"
+    },
+    {
+      "time": 506.0,
+      "text": "员员工肯定是用A去协作的"
+    },
+    {
+      "time": 506.5,
+      "text": "员员工肯定是用AI去协作的"
+    },
+    {
+      "time": 507.0,
+      "text": "员员工肯定是用AI去协作"
+    },
+    {
+      "time": 507.5,
+      "text": "员员工肯定是用Al去协作"
+    },
+    {
+      "time": 508.0,
+      "text": "然后组织架构"
+    },
+    {
+      "time": 508.5,
+      "text": "然后组织架构"
+    },
+    {
+      "time": 509.0,
+      "text": "组织怎么用A把信息流通"
+    },
+    {
+      "time": 509.5,
+      "text": "组织怎么用AI把信息流通"
+    },
+    {
+      "time": 510.0,
+      "text": "组织怎么用AI把信息流通"
+    },
+    {
+      "time": 510.5,
+      "text": "组织怎么用Al把信息流通"
+    },
+    {
+      "time": 511.0,
+      "text": "流通然后形成一个A中台"
+    },
+    {
+      "time": 511.5,
+      "text": "流通然后形成一个Al中合"
+    },
+    {
+      "time": 512.0,
+      "text": "流通然后形成一个A中台"
+    },
+    {
+      "time": 512.5,
+      "text": "然后管理层老板去看这个"
+    },
+    {
+      "time": 513.0,
+      "text": "然后管理层老板去看这个"
+    },
+    {
+      "time": 513.5,
+      "text": "然后管理层老板去看这个"
+    },
+    {
+      "time": 514.0,
+      "text": "然后管理层老板去看这个"
+    },
+    {
+      "time": 514.5,
+      "text": "然后管理层老板去看这个"
+    },
+    {
+      "time": 515.0,
+      "text": "我大概知道你的意思"
+    },
+    {
+      "time": 515.5,
+      "text": "我大概知道你飽意思"
+    },
+    {
+      "time": 516.5,
+      "text": "对对对这是一个很大框架"
+    },
+    {
+      "time": 517.0,
+      "text": "对对对这是一个很大框架"
+    },
+    {
+      "time": 517.5,
+      "text": "这事情对老板是有好处"
+    },
+    {
+      "time": 518.0,
+      "text": "这事情对老板是有好处"
+    },
+    {
+      "time": 518.5,
+      "text": "这事情对老板是有好处"
+    },
+    {
+      "time": 519.0,
+      "text": "这事情对老板是有好处"
+    },
+    {
+      "time": 519.5,
+      "text": "对下面的人又没好处其实"
+    },
+    {
+      "time": 520.0,
+      "text": "对下面的人又没好处其实"
+    },
+    {
+      "time": 520.5,
+      "text": "对下面的人又没好处其实"
+    },
+    {
+      "time": 521.0,
+      "text": "对下面的人叉没好处其实"
+    },
+    {
+      "time": 521.5,
+      "text": ""
+    },
+    {
+      "time": 522.0,
+      "text": "其实也有"
+    },
+    {
+      "time": 522.5,
+      "text": "因为之后肯定是人机协作的过程"
+    },
+    {
+      "time": 523.0,
+      "text": "因为之后肯定是人机协作飽过程"
+    },
+    {
+      "time": 523.5,
+      "text": "因为之后肯定是人机协作过程"
+    },
+    {
+      "time": 524.0,
+      "text": "因为之后肯走是入机协作的过程"
+    },
+    {
+      "time": 524.5,
+      "text": "因为之后肯定是入机协作自过程"
+    },
+    {
+      "time": 525.0,
+      "text": "你就算你"
+    },
+    {
+      "time": 525.5,
+      "text": "你就算你"
+    },
+    {
+      "time": 526.0,
+      "text": "比如说员工工作再简单"
+    },
+    {
+      "time": 526.5,
+      "text": "比如说员工工作再简单"
+    },
+    {
+      "time": 527.0,
+      "text": "比如说员工工作再简单"
+    },
+    {
+      "time": 527.5,
+      "text": ""
+    },
+    {
+      "time": 528.5,
+      "text": "再怎么样也好"
+    },
+    {
+      "time": 529.0,
+      "text": "再怎么样也好"
+    },
+    {
+      "time": 529.5,
+      "text": "这个人机协作这个"
+    },
+    {
+      "time": 530.0,
+      "text": "这个人机协作这个。"
+    },
+    {
+      "time": 530.5,
+      "text": "这个人机协作这个"
+    },
+    {
+      "time": 531.0,
+      "text": "事情是一定撇不开的"
+    },
+    {
+      "time": 531.5,
+      "text": "事情是一定撇不开的"
+    },
+    {
+      "time": 532.0,
+      "text": "那你你现在OPC的主要业务就是"
+    },
+    {
+      "time": 532.5,
+      "text": "那你你现在OPC的主要业务就是"
+    },
+    {
+      "time": 533.0,
+      "text": "那你你现在OPC自主要业务就是"
+    },
+    {
+      "time": 533.5,
+      "text": "那你你现在OPC的主要业务就是"
+    },
+    {
+      "time": 534.0,
+      "text": "那你你现在OPC的主要业务就是"
+    },
+    {
+      "time": 534.5,
+      "text": "后期发展就是给别人提供"
+    },
+    {
+      "time": 535.0,
+      "text": "后期发展就是给别人提供"
+    },
+    {
+      "time": 535.5,
+      "text": "后期发展就是给别人提供"
+    },
+    {
+      "time": 536.0,
+      "text": "后期发展就是给别人提供"
+    },
+    {
+      "time": 536.5,
+      "text": "后期发展就是给别人提供"
+    },
+    {
+      "time": 537.0,
+      "text": "整个Alagent的整体的技术搭建"
+    },
+    {
+      "time": 537.5,
+      "text": "整个Almagent的整体的技术搭建"
+    },
+    {
+      "time": 538.0,
+      "text": "整个Al agent的整体的技术搭建"
+    },
+    {
+      "time": 538.5,
+      "text": "整个Al agent的整体的技术搭建"
+    },
+    {
+      "time": 539.0,
+      "text": "整个Alagen的整体昀技术搭建"
+    },
+    {
+      "time": 539.5,
+      "text": "整个Al agent的整体的技术搭建"
+    },
+    {
+      "time": 540.5,
+      "text": "然后就是还有啥"
+    },
+    {
+      "time": 541.0,
+      "text": "然后就是还有啥"
+    },
+    {
+      "time": 541.5,
+      "text": "然后就是还有啥"
+    },
+    {
+      "time": 542.0,
+      "text": ""
+    },
+    {
+      "time": 542.5,
+      "text": "就是我可以定制解决方案"
+    },
+    {
+      "time": 543.0,
+      "text": "就是我可以定制解决方案"
+    },
+    {
+      "time": 543.5,
+      "text": "就是我可以定制解决方案"
+    },
+    {
+      "time": 544.0,
+      "text": "今天跟你交流以后"
+    },
+    {
+      "time": 544.5,
+      "text": "今天跟你交流以后。"
+    },
+    {
+      "time": 545.0,
+      "text": "我发现确实他有一些"
+    },
+    {
+      "time": 545.5,
+      "text": "我发现确实他有一些"
+    },
+    {
+      "time": 546.0,
+      "text": "我发现确实他有一些"
+    },
+    {
+      "time": 546.5,
+      "text": "就还是说需要落地的东西"
+    },
+    {
+      "time": 547.0,
+      "text": "就还是说需要落地的东西"
+    },
+    {
+      "time": 547.5,
+      "text": "就还是说需要落地的东西"
+    },
+    {
+      "time": 548.0,
+      "text": ""
+    },
+    {
+      "time": 548.5,
+      "text": "刚跟这个老板聊完"
+    },
+    {
+      "time": 549.0,
+      "text": "刚跟这个老板聊完"
+    },
+    {
+      "time": 549.5,
+      "text": "我觉得他对于AI的使用"
+    },
+    {
+      "time": 550.0,
+      "text": "我觉得他对于AI的使用"
+    },
+    {
+      "time": 550.5,
+      "text": "我觉得他对于AI的使用"
+    },
+    {
+      "time": 551.0,
+      "text": "我觉得他对于AI的使用"
+    },
+    {
+      "time": 551.5,
+      "text": "我觉得他对于AI的使用"
+    },
+    {
+      "time": 552.5,
+      "text": "有使用一年多了"
+    },
+    {
+      "time": 553.0,
+      "text": "网版"
+    },
+    {
+      "time": 553.5,
+      "text": "然后对他来说Al也很有用"
+    },
+    {
+      "time": 554.0,
+      "text": "然后对他来说AI也很有用"
+    },
+    {
+      "time": 554.5,
+      "text": "然后对他来说Al也很有用\nこい"
+    },
+    {
+      "time": 555.0,
+      "text": "那我自己也觉得AI它这个东西"
+    },
+    {
+      "time": 555.5,
+      "text": "那我自己也觉得AI它这个东西"
+    },
+    {
+      "time": 556.0,
+      "text": "那我自己也党得AI它这个东西"
+    },
+    {
+      "time": 556.5,
+      "text": "。，\n那我自己也觉得AI它这个东西"
+    },
+    {
+      "time": 557.0,
+      "text": "它是一个时代"
+    },
+    {
+      "time": 557.5,
+      "text": "所以我才会去扫楼"
+    },
+    {
+      "time": 558.0,
+      "text": "所以我才会去扫楼"
+    },
+    {
+      "time": 558.5,
+      "text": "所以我才会去扫楼"
+    },
+    {
+      "time": 559.0,
+      "text": "所以我才会去扫楼"
+    },
+    {
+      "time": 559.5,
+      "text": "那有一部分老板现在对于AI呢"
+    },
+    {
+      "time": 560.0,
+      "text": "那有一部分老板现在对于AI呢"
+    },
+    {
+      "time": 560.5,
+      "text": "那有一部分老板现在对于AI呢"
+    },
+    {
+      "time": 561.0,
+      "text": "可能还没有使用起来"
+    },
+    {
+      "time": 561.5,
+      "text": "可能还没有使用起来"
+    },
+    {
+      "time": 562.0,
+      "text": "还没有接触到"
+    },
+    {
+      "time": 562.5,
+      "text": "还没有接触到"
+    },
+    {
+      "time": 563.0,
+      "text": "那我这边有很好的对于"
+    },
+    {
+      "time": 563.5,
+      "text": "那我这边有很好的对于"
+    },
+    {
+      "time": 564.5,
+      "text": "AI的使用以及AI的思路"
+    },
+    {
+      "time": 565.0,
+      "text": "AI的使用以及AI的思路"
+    },
+    {
+      "time": 565.5,
+      "text": "AI的使用以及AI的思路"
+    },
+    {
+      "time": 566.0,
+      "text": ""
+    },
+    {
+      "time": 566.5,
+      "text": "我们都可以来聊"
+    },
+    {
+      "time": 567.0,
+      "text": "我们都可以来聊\nEAASE"
+    },
+    {
+      "time": 567.5,
+      "text": "具体在行业业务"
+    },
+    {
+      "time": 568.0,
+      "text": "具体在行业业务"
+    },
+    {
+      "time": 568.5,
+      "text": "流程里面怎么去落地"
+    },
+    {
+      "time": 569.0,
+      "text": "流程里面怎么去落地"
+    },
+    {
+      "time": 569.5,
+      "text": "所以慈溪这块有有相对应"
+    },
+    {
+      "time": 570.0,
+      "text": "所以慈溪这块有有相对应"
+    },
+    {
+      "time": 570.5,
+      "text": ""
+    },
+    {
+      "time": 571.0,
+      "text": "所以慈溪这块有有相对应"
+    },
+    {
+      "time": 571.5,
+      "text": "所以慈溪这块有有相对应"
+    },
+    {
+      "time": 572.0,
+      "text": "需求老板都可以找我来聊"
+    },
+    {
+      "time": 572.5,
+      "text": "需求老板都可以找我来聊"
+    },
+    {
+      "time": 573.0,
+      "text": "需求老板都可以找我来聊"
+    },
+    {
+      "time": 573.5,
+      "text": ""
+    }
+  ],
+  "errors": 225,
+  "elapsed_seconds": 290.46
+}

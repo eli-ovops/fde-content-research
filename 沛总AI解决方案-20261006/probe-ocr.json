@@ -1,0 +1,51 @@
+{
+  "duration" : 112.09999999999999,
+  "failed_times" : [
+
+  ],
+  "frames" : [
+    {
+      "text" : "AUtOFLN\nAI一人公司",
+      "time" : 0
+    },
+    {
+      "text" : "今天带大家参观一下",
+      "time" : 0.5
+    },
+    {
+      "text" : "今天带大家参观一下\nMSITW \/2",
+      "time" : 1
+    },
+    {
+      "text" : "我的AI一人公司\nMOTN AA2",
+      "time" : 1.5
+    },
+    {
+      "text" : "我的AI一人公司\nMOTN YA2",
+      "time" : 2
+    },
+    {
+      "text" : "走出发",
+      "time" : 2.5
+    },
+    {
+      "text" : "走出发",
+      "time" : 3
+    },
+    {
+      "text" : "",
+      "time" : 3.5
+    },
+    {
+      "text" : "",
+      "time" : 4
+    },
+    {
+      "text" : "edes Benz",
+      "time" : 4.5
+    }
+  ],
+  "input" : "\/Users\/cczij\/Downloads\/download.mp4",
+  "sample_interval" : 0.5,
+  "scope" : "visible burned-in captions and visual text; not audio transcript"
+}

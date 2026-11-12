@@ -1,0 +1,857 @@
+{
+  "id": "7643457243141443301",
+  "url": "https://www.douyin.com/video/7643457243141443301",
+  "source": "/Users/USER/Downloads/download (34).mp4",
+  "sample_interval": 1.0,
+  "coverage": "全时段每秒取帧画面文字，已补齐每批首帧；不是音频逐字稿",
+  "frame_count": 209,
+  "rows": [
+    {
+      "time": 0,
+      "text": "我的第一款完整的产品\n今\n[[CAPTION_BAND]]\n我的第一款完整的产品",
+      "repair": "每批首帧独立补读"
+    },
+    {
+      "time": 1,
+      "text": "我的第一款完整产品\n[[CAPTION_BAND]]\n我的第一款完整产品"
+    },
+    {
+      "time": 2,
+      "text": "这次是针对设计师行业\n[[CAPTION_BAND]]\n这次是针对设计师行业"
+    },
+    {
+      "time": 3,
+      "text": "这次是针对设计师行业\n[[CAPTION_BAND]]\n这次是针对设计师行业"
+    },
+    {
+      "time": 4,
+      "text": "做的生图工具\n手\n[[CAPTION_BAND]]\n做的生图工具"
+    },
+    {
+      "time": 5,
+      "text": "给大家看一下\n台\n[[CAPTION_BAND]]\n给大家看一下"
+    },
+    {
+      "time": 6,
+      "text": "从这样到这样\n[[CAPTION_BAND]]\n从这样到这样"
+    },
+    {
+      "time": 7,
+      "text": "从这样到这样\n[[CAPTION_BAND]]\n从这样到这样"
+    },
+    {
+      "time": 8,
+      "text": "解决生图确定性的问题\n[[CAPTION_BAND]]\n解决生图确定性的问题"
+    },
+    {
+      "time": 9,
+      "text": "[[CAPTION_BAND]]"
+    },
+    {
+      "time": 10,
+      "text": "为什么是确定性呢\nこ\n[[CAPTION_BAND]]\n为什么是确定性呢"
+    },
+    {
+      "time": 11,
+      "text": "打个比方\n[[CAPTION_BAND]]\n打个比方"
+    },
+    {
+      "time": 12,
+      "text": "装修行业总有一些客户\n[[CAPTION_BAND]]\n装修行业总有一些客户"
+    },
+    {
+      "time": 13,
+      "text": "装修行业总有一些客户\n[[CAPTION_BAND]]\n装修行业总有一些客户"
+    },
+    {
+      "time": 14,
+      "text": "他的超个性化需求\n[[CAPTION_BAND]]\n他的超个性化需求"
+    },
+    {
+      "time": 15,
+      "text": "他的超个性化需求\n[[CAPTION_BAND]]\n他的超个性化需求"
+    },
+    {
+      "time": 16,
+      "text": "需要去满足\n[[CAPTION_BAND]]\n需要去满足"
+    },
+    {
+      "time": 17,
+      "text": "那比如说\n[[CAPTION_BAND]]\n那比如说"
+    },
+    {
+      "time": 18,
+      "text": "改变柜子的样式和材质\n[[CAPTION_BAND]]\n改变柜子的样式和材质"
+    },
+    {
+      "time": 19,
+      "text": "改变柜子的样式和材质\n[[CAPTION_BAND]]\n改变柜子的样式和材质"
+    },
+    {
+      "time": 20,
+      "text": "但不影响场景其他的家具\n[[CAPTION_BAND]]\n但不影响场景其他的家具"
+    },
+    {
+      "time": 21,
+      "text": "但不影响场景其他的家具\n[[CAPTION_BAND]]\n但不影响场景其他的家具"
+    },
+    {
+      "time": 22,
+      "text": "包括整个空间关系\n[[CAPTION_BAND]]\n包括整个空间关系"
+    },
+    {
+      "time": 23,
+      "text": "包括整个空间关系\n[[CAPTION_BAND]]\n包括整个空间关系"
+    },
+    {
+      "time": 24,
+      "text": "这两天有装修行业的老板\n[[CAPTION_BAND]]\n这两天有装修行业的老板",
+      "repair": "每批首帧独立补读"
+    },
+    {
+      "time": 25,
+      "text": "反复提到了这个痛点\n[[CAPTION_BAND]]\n反复提到了这个痛点"
+    },
+    {
+      "time": 26,
+      "text": "反复提到了这个痛点\n[[CAPTION_BAND]]\n反复提到了这个痛点"
+    },
+    {
+      "time": 27,
+      "text": "因为目前市面上的AI产品\n[[CAPTION_BAND]]\n因为目前市面上的AI产品"
+    },
+    {
+      "time": 28,
+      "text": "因为目前市面上的AI产品\n[[CAPTION_BAND]]\n因为目前市面上的AI产品"
+    },
+    {
+      "time": 29,
+      "text": "都做不到确定性\n[[CAPTION_BAND]]\n都做不到确定性"
+    },
+    {
+      "time": 30,
+      "text": "哪怕是最强的生图模型\n[[CAPTION_BAND]]\n哪怕是最强的生图模型"
+    },
+    {
+      "time": 31,
+      "text": "哪怕是最强的生图模型\n[[CAPTION_BAND]]\n哪怕是最强的生图模型"
+    },
+    {
+      "time": 32,
+      "text": "Gemini 3 GPTimage 2\n[[CAPTION_BAND]]\nGemini 3 GPTimage 2"
+    },
+    {
+      "time": 33,
+      "text": "Gemini 3 GPTimage 2\n[[CAPTION_BAND]]\nGemini 3 GPTimage 2"
+    },
+    {
+      "time": 34,
+      "text": "它们呢都听不懂人话\n[[CAPTION_BAND]]\n它们呢都听不懂人话"
+    },
+    {
+      "time": 35,
+      "text": "它们呢都听不懂人话\n[[CAPTION_BAND]]\n它们呢都听不懂人话"
+    },
+    {
+      "time": 36,
+      "text": "交流沟通非常的费劲\n[[CAPTION_BAND]]\n交流沟通非常的费劲"
+    },
+    {
+      "time": 37,
+      "text": "交流沟通非常的费劲\n[[CAPTION_BAND]]\n交流沟通非常的费劲"
+    },
+    {
+      "time": 38,
+      "text": "他说如果能做一款\n[[CAPTION_BAND]]\n他说如果能做一款"
+    },
+    {
+      "time": 39,
+      "text": "方便他们设计师使用的产品\n[[CAPTION_BAND]]\n方便他们设计师使用的产品"
+    },
+    {
+      "time": 40,
+      "text": "方便他们设计师使用的产品\n[[CAPTION_BAND]]\n方便他们设计师使用的产品"
+    },
+    {
+      "time": 41,
+      "text": "方便他们设计师使用的产品\n[[CAPTION_BAND]]\n方便他们设计师使用的产品"
+    },
+    {
+      "time": 42,
+      "text": "帮助设计师尽快的出图\n[[CAPTION_BAND]]\n帮助设计师尽快的出图"
+    },
+    {
+      "time": 43,
+      "text": "帮助设计师尽快的出图\n[[CAPTION_BAND]]\n帮助设计师尽快的出图"
+    },
+    {
+      "time": 44,
+      "text": "且让客户减少选择成本\n[[CAPTION_BAND]]\n且让客户减少选择成本"
+    },
+    {
+      "time": 45,
+      "text": "且让客户减少选择成本\n[[CAPTION_BAND]]\n且让客户减少选择成本"
+    },
+    {
+      "time": 46,
+      "text": "这里面就是巨大的提效\n[[CAPTION_BAND]]\n这里面就是巨大的提效"
+    },
+    {
+      "time": 47,
+      "text": "这里面就是巨大的提效\n[[CAPTION_BAND]]\n这里面就是巨大的提效"
+    },
+    {
+      "time": 48,
+      "text": "三方受益\n[[CAPTION_BAND]]\n三方受益",
+      "repair": "每批首帧独立补读"
+    },
+    {
+      "time": 49,
+      "text": "所以呢\n[[CAPTION_BAND]]\n所以呢"
+    },
+    {
+      "time": 50,
+      "text": "怎么做这个确定性\n[[CAPTION_BAND]]\n怎么做这个确定性"
+    },
+    {
+      "time": 51,
+      "text": "怎么做这个确定性\n[[CAPTION_BAND]]\n怎么做这个确定性"
+    },
+    {
+      "time": 52,
+      "text": "这次我用的是Claude桌面版\n[[CAPTION_BAND]]\n这次我用的是Claude桌面版"
+    },
+    {
+      "time": 53,
+      "text": "这次我用的是Claude桌面版\n[[CAPTION_BAND]]\n这次我用的是Claude桌面版"
+    },
+    {
+      "time": 54,
+      "text": "加Codex加claude code CLI\n[[CAPTION_BAND]]\n加Codex加claude code CLI"
+    },
+    {
+      "time": 55,
+      "text": "加Codex加claude code CLI\n[[CAPTION_BAND]]\n加Codex加claude code CLI"
+    },
+    {
+      "time": 56,
+      "text": "加Codex加claude code CLI\n[[CAPTION_BAND]]\n加Codex加claude code CLI"
+    },
+    {
+      "time": 57,
+      "text": "为了达到生图的精确控制\n[[CAPTION_BAND]]\n为了达到生图的精确控制"
+    },
+    {
+      "time": 58,
+      "text": "为了达到生图的精确控制\n[[CAPTION_BAND]]\n为了达到生图的精确控制"
+    },
+    {
+      "time": 59,
+      "text": "整个产品使用分为三步\n[[CAPTION_BAND]]\n整个产品使用分为三步"
+    },
+    {
+      "time": 60,
+      "text": "整个产品使用分为三步\n[[CAPTION_BAND]]\n整个产品使用分为三步"
+    },
+    {
+      "time": 61,
+      "text": "选区、微调、参考图\n[[CAPTION_BAND]]\n选区、微调、参考图"
+    },
+    {
+      "time": 62,
+      "text": "选区、微调、参考图\n[[CAPTION_BAND]]\n选区、微调、参考图"
+    },
+    {
+      "time": 63,
+      "text": "[[CAPTION_BAND]]"
+    },
+    {
+      "time": 64,
+      "text": "接入的模型是GPTimage2\n[[CAPTION_BAND]]\n接入的模型是GPTimage2"
+    },
+    {
+      "time": 65,
+      "text": "接入的模型是GPTimage2\n[[CAPTION_BAND]]\n接入的模型是GPTimage2"
+    },
+    {
+      "time": 66,
+      "text": "来看视频演示\n[[CAPTION_BAND]]\n来看视频演示"
+    },
+    {
+      "time": 67,
+      "text": "装修效果图 AI修改\n上传原國和参考園，然后描述要修改效果\n我用下面这个案例来演示\nJBACKこ\n[[CAPTION_BAND]]\n我用下面这个案例来演示\nJBACKこ"
+    },
+    {
+      "time": 68,
+      "text": "装修效果圉 Al 修改\n上传原图和参考園，然后描达要修改的效果\nい、\n把这个房间呢做一下硬装\n208\n[[CAPTION_BAND]]\nい、\n把这个房间呢做一下硬装"
+    },
+    {
+      "time": 69,
+      "text": "19.35\n把这个房间呢做一下硬装\n[[CAPTION_BAND]]\n19.35\n把这个房间呢做一下硬装"
+    },
+    {
+      "time": 70,
+      "text": "装修效果團 AI修改\n1日不にあがとかど\n8E）\n我们先做这一个墙面\n[[CAPTION_BAND]]\n我们先做这一个墙面"
+    },
+    {
+      "time": 71,
+      "text": "装椎效果图 Al 修改\n日所上焼きを\n我们先做这一个墙面\n[[CAPTION_BAND]]\n我们先做这一个墙面"
+    },
+    {
+      "time": 72,
+      "text": "装修效果图 AI 修改\n四醇參中\nい多こもます\n在E片上XBと\n慧速\n贴埿隔栅板吧\nEYBACKAN9\n[[CAPTION_BAND]]\n贴埿隔栅板吧\nEYBACKAN9",
+      "repair": "每批首帧独立补读"
+    },
+    {
+      "time": 73,
+      "text": "改\n所に\n贴上隔栅板吧\nBat\n[[CAPTION_BAND]]\n贴上隔栅板吧"
+    },
+    {
+      "time": 74,
+      "text": "SR大H版\n然后按住空格键呢\nBAK\n[[CAPTION_BAND]]\n然后按住空格键呢\nBAK"
+    },
+    {
+      "time": 75,
+      "text": "泰效果司AI\n政\nふり\n可以变成抓手\nY\n四色\n[[CAPTION_BAND]]\nふり\n可以变成抓手\nY\n四色"
+    },
+    {
+      "time": 76,
+      "text": "文\nC\n移动视角好\nRN\nOFRPT\n[[CAPTION_BAND]]\nC\n移动视角好\nRN"
+    },
+    {
+      "time": 77,
+      "text": "顧酸效舉面 AT修政\nも\n那么下一步呢\n[[CAPTION_BAND]]\n那么下一步呢"
+    },
+    {
+      "time": 78,
+      "text": "微效單局A修改\n就是编辑边界进行微调\n[[CAPTION_BAND]]\n就是编辑边界进行微调"
+    },
+    {
+      "time": 79,
+      "text": "就是编辑边奡进行微调\n[[CAPTION_BAND]]\n就是编辑边奡进行微调"
+    },
+    {
+      "time": 80,
+      "text": "胺愷数氣面Af你改\nNB：200K2会食KgはER二立\n这个节点都是可以调的\n1A\n[[CAPTION_BAND]]\n这个节点都是可以调的"
+    },
+    {
+      "time": 81,
+      "text": "H家H：HS.IE'G\n小T9E31\n这个节点都是可以调的\n<Bt\n[[CAPTION_BAND]]\n小T9E31\n这个节点都是可以调的\n<Bt"
+    },
+    {
+      "time": 82,
+      "text": "余能效局\n恢效\n2836004星当、K2性EP二\n19:35\n可以做一些细节上的微操\n[[CAPTION_BAND]]\n19:35\n可以做一些细节上的微操"
+    },
+    {
+      "time": 83,
+      "text": "KTee IorEe\nSIR大E士M1\n进来把这个区域呢\n私\n同Eこ\n[[CAPTION_BAND]]\n进来把这个区域呢\n私\n同Eこ"
+    },
+    {
+      "time": 84,
+      "text": "肤能效氧局｜\nT\n选取的比较精细化\n[[CAPTION_BAND]]\n选取的比较精细化"
+    },
+    {
+      "time": 85,
+      "text": "食微A飯议\nHn\n并具呢我们还可以创建节点\n[[CAPTION_BAND]]\n并具呢我们还可以创建节点"
+    },
+    {
+      "time": 86,
+      "text": "肤能效氧局\nm\n四51\n并且呢我们还可以创建节点\n[[CAPTION_BAND]]\n四51\n并且呢我们还可以创建节点"
+    },
+    {
+      "time": 87,
+      "text": "能隆效車面Af做改\nEER\n当然也可以删除节点\nA\n[[CAPTION_BAND]]\n当然也可以删除节点"
+    },
+    {
+      "time": 88,
+      "text": "食阿效索局 AT\nm政\n好现在选区做完了\n[[CAPTION_BAND]]\n好现在选区做完了"
+    },
+    {
+      "time": 89,
+      "text": "融修效氧面A1做议\n保存\n[[CAPTION_BAND]]\n保存"
+    },
+    {
+      "time": 90,
+      "text": "こ\n接着放入两张参考图\nQ\n[[CAPTION_BAND]]\nこ\n接着放入两张参考图\nQ"
+    },
+    {
+      "time": 91,
+      "text": "接着放入两张参考图\n[[CAPTION_BAND]]\n接着放入两张参考图"
+    },
+    {
+      "time": 92,
+      "text": "出A、\n装修效果圈 AI修改\n上传原国和參考圓，然后描述要绣改朐效果\n然后进行自然谭言的描达\n[[CAPTION_BAND]]\n然后进行自然谭言的描达"
+    },
+    {
+      "time": 93,
+      "text": "は师，侄正\n装修效果國 AI 修改\n上传原國和參考面，然后描还要修改的效果\n红色标注的这个墙面，\n[[CAPTION_BAND]]\n红色标注的这个墙面，"
+    },
+    {
+      "time": 94,
+      "text": "江：\n上传原國和參考面，然后描达要修改的效果\n红色标注的这个墙面緄\n9Ew\n[[CAPTION_BAND]]\n红色标注的这个墙面緄"
+    },
+    {
+      "time": 95,
+      "text": "SSPuE\n装修效果團 AI 修改\n上传原國和參考面，然后描达要修改的效果\n〈帮我贴上参考图\nH6A\n[[CAPTION_BAND]]\n〈帮我贴上参考图"
+    },
+    {
+      "time": 96,
+      "text": "聚存效業A15改\n上传蒙照和参考田，然后接达發修发約效票\n装修效果图 AI 修改\n上传原图和參考國，然后描述要修改效果\n白处滨き建送例4：红他怀江們这个场出，R效处）\n日A入：1\nREHSaE\nS BAGK\n这个颜色的格栅板\nOGravastar\n[[CAPTION_BAND]]\nREHSaE\n这个颜色的格栅板",
+      "repair": "每批首帧独立补读"
+    },
+    {
+      "time": 97,
+      "text": "装修效果團 AI 修改\nKUUMAETR\n现在显示正在生成中\n[[CAPTION_BAND]]\nKUUMAETR\n现在显示正在生成中"
+    },
+    {
+      "time": 98,
+      "text": "装修效果團 AI修改\n现在显示正在生成中\n[[CAPTION_BAND]]\n现在显示正在生成中"
+    },
+    {
+      "time": 99,
+      "text": "装修效果團 At修改\nTHALMY\n好现在结果出来了\nCan2\n[[CAPTION_BAND]]\nTHALMY\n好现在结果出来了"
+    },
+    {
+      "time": 100,
+      "text": "装修效果團 At修改\nTHALONDS\n我们来看一下\n[[CAPTION_BAND]]\nTHALONDS\n我们来看一下"
+    },
+    {
+      "time": 101,
+      "text": "装修效果國 At修改\nLO0\n左边呢就是效果图\n[[CAPTION_BAND]]\nLO0\n左边呢就是效果图"
+    },
+    {
+      "time": 102,
+      "text": "装修效果國 At修改\nL&HALOMD\n左边呢就是效果图\nBA0K*\n[[CAPTION_BAND]]\nL&HALOMD\n左边呢就是效果图"
+    },
+    {
+      "time": 103,
+      "text": "鼓修效果團 At修改\nEUEHALOSS\n右边就是原图\n[[CAPTION_BAND]]\nEUEHALOSS\n右边就是原图"
+    },
+    {
+      "time": 104,
+      "text": "IRKはER\nHam\nEEHALDSAS\n这个区域呢\n1ヅ\n[[CAPTION_BAND]]\nEEHALDSAS\n这个区域呢\n1ヅ"
+    },
+    {
+      "time": 105,
+      "text": "肢能效氧局\nAv\n各\nIHALODD\n就是我们刚刚选择的选区\n[[CAPTION_BAND]]\nIHALODD\n就是我们刚刚选择的选区"
+    },
+    {
+      "time": 106,
+      "text": "装修效果團 AI修改\nLom\n就是我们刚刚选择的选区\n[[CAPTION_BAND]]\nLom\n就是我们刚刚选择的选区"
+    },
+    {
+      "time": 107,
+      "text": "酸效军面 At旅改\nIEHALOSD\n然后还有两个细节\n8RGK\n[[CAPTION_BAND]]\nIEHALOSD\n然后还有两个细节"
+    },
+    {
+      "time": 108,
+      "text": "胶能效索前\nLo.\n他保留两个插座啊\n[[CAPTION_BAND]]\nLo.\n他保留两个插座啊"
+    },
+    {
+      "time": 109,
+      "text": "装修效果團 AI 修改\nALeS\n这两个细节\n[[CAPTION_BAND]]\nALeS\n这两个细节"
+    },
+    {
+      "time": 110,
+      "text": "装修效果團 Al 修改\nI HALE DA\nOK那么我们进行下一步\n19.\n內\n[[CAPTION_BAND]]\nI HALE DA\nOK那么我们进行下一步\n19."
+    },
+    {
+      "time": 111,
+      "text": "装修效果團 AI 修改\nHALO》\n我们下一步呢\n老\n[[CAPTION_BAND]]\nHALO》\n我们下一步呢"
+    },
+    {
+      "time": 112,
+      "text": "能效\nEER\nTHALON\n就是在这两个柱子上\n[[CAPTION_BAND]]\nTHALON\n就是在这两个柱子上"
+    },
+    {
+      "time": 113,
+      "text": "巛酯\nIEA RAE\n就是在这两个柱子上\n山\n[[CAPTION_BAND]]\n就是在这两个柱子上"
+    },
+    {
+      "time": 114,
+      "text": "HEARK\n刷上灰色的乳胶漆了\n[[CAPTION_BAND]]\n刷上灰色的乳胶漆了"
+    },
+    {
+      "time": 115,
+      "text": "装修效果國 AI修改\n中\n0公\n刷上灰色的乳胶漆了\n[[CAPTION_BAND]]\n刷上灰色的乳胶漆了"
+    },
+    {
+      "time": 116,
+      "text": "装修效果團 AI修改\n然后再次编辑\n0、\n[[CAPTION_BAND]]\n然后再次编辑"
+    },
+    {
+      "time": 117,
+      "text": "装修效果團 AI修改\nバ\nOK把我们的参考图\n[[CAPTION_BAND]]\nバ\nOK把我们的参考图"
+    },
+    {
+      "time": 118,
+      "text": "/双医 nim\n数意接式改室！\n.。\nEALET\n19m97\n乳胶漆放上去\nTe\n[[CAPTION_BAND]]\nEALET\n19m97\n乳胶漆放上去"
+    },
+    {
+      "time": 119,
+      "text": "機效局\n政\nAEOwaE\n同样的做选区\n1”\nBACK\nペ\n[[CAPTION_BAND]]\nAEOwaE\n同样的做选区\n1”"
+    },
+    {
+      "time": 120,
+      "text": "装修效果國 AI 修改\n皆时参噌\n・CBダき\n大事2\n滿线120%一油光饭险，股仕空号能订自袋\n双芝自片\n（\nTHALOMY\n我们可以同时做两个选区\n[[CAPTION_BAND]]\nTHALOMY\n我们可以同时做两个选区",
+      "repair": "每批首帧独立补读"
+    },
+    {
+      "time": 121,
+      "text": "台營数军A你改\n0K2原信\nDRCHALS DDN\n我们可以同时做两个选区\n[[CAPTION_BAND]]\nDRCHALS DDN\n我们可以同时做两个选区"
+    },
+    {
+      "time": 122,
+      "text": "營修效缅面 Af航政\n8 100K2an Ke做二\nTHALDNE\n啊这边看到有一点偏移了\n[[CAPTION_BAND]]\nTHALDNE\n啊这边看到有一点偏移了"
+    },
+    {
+      "time": 123,
+      "text": "我能效索局\nKiOE IentMQCatEmけRIL\nAEDSE\n啊这边看到有一点偏移了\nCF\n[[CAPTION_BAND]]\nAEDSE\n啊这边看到有一点偏移了"
+    },
+    {
+      "time": 124,
+      "text": "發𣗏效策劑\n0マ7\n编辑保存好\n[[CAPTION_BAND]]\n0マ7\n编辑保存好"
+    },
+    {
+      "time": 125,
+      "text": "發修效果國 AI修改\n编辑保存好\n[[CAPTION_BAND]]\n编辑保存好"
+    },
+    {
+      "time": 126,
+      "text": "装修效果團 AI修改\nTン\n现在选区做完了\n[[CAPTION_BAND]]\nTン\n现在选区做完了"
+    },
+    {
+      "time": 127,
+      "text": "装修效果國 AI修改\n红色标注这两个墙面\nE9\n[[CAPTION_BAND]]\n红色标注这两个墙面"
+    },
+    {
+      "time": 128,
+      "text": "綾修效果團 AI修改\n那\n红色标注的这两个墙面\nE\nこた\n[[CAPTION_BAND]]\n那\n红色标注的这两个墙面\nE\nこた"
+    },
+    {
+      "time": 129,
+      "text": "裝修效果團 AI修改\nTリッラ\n帮我刷上参考图\n[[CAPTION_BAND]]\nTリッラ\n帮我刷上参考图"
+    },
+    {
+      "time": 130,
+      "text": "装修效果團 AI修改\n帮我刷上参考图\n[[CAPTION_BAND]]\n帮我刷上参考图"
+    },
+    {
+      "time": 131,
+      "text": "裝修效果團 AI修改\n这个颜色的乳胶漆\n[[CAPTION_BAND]]\n这个颜色的乳胶漆"
+    },
+    {
+      "time": 132,
+      "text": "装修效果團 AI修改\n这个颜色的乳胶漆\n三\nREKA\n[[CAPTION_BAND]]\n这个颜色的乳胶漆\n三\nREKA"
+    },
+    {
+      "time": 133,
+      "text": "豉碳效劑劑\nエ\n注O、仕出\nTHAEOYE\n我们再吸取下色号吧\n[[CAPTION_BAND]]\nTHAEOYE\n我们再吸取下色号吧"
+    },
+    {
+      "time": 134,
+      "text": "余能效鼆到\n0效\n（ド）\nbede 由MO、仕佳之\nHAEDTTE\n我们再吸取下色号吧\n[[CAPTION_BAND]]\nHAEDTTE\n我们再吸取下色号吧"
+    },
+    {
+      "time": 135,
+      "text": "裝修效果團 AI 修改\n色号是\n[[CAPTION_BAND]]\n色号是"
+    },
+    {
+      "time": 136,
+      "text": "はる0A\n装修效果團 AI 修改\n39Nンタコココンでンす\n1巴方是\n[[CAPTION_BAND]]\n39Nンタコココンでンす\n1巴方是"
+    },
+    {
+      "time": 137,
+      "text": "裝修效果圈 AI修改\nLri\n《HAI6》\n生成了我们来看一下墙壁\n[[CAPTION_BAND]]\n《HAI6》\n生成了我们来看一下墙壁"
+    },
+    {
+      "time": 138,
+      "text": "装修效果目 AI修改\nxri）\n1\n日0\n生成了我们来看一下墙壁\n[[CAPTION_BAND]]\n日0\n生成了我们来看一下墙壁"
+    },
+    {
+      "time": 139,
+      "text": "装修效果目 AI修改\n大E産\n1\nrewu\n生成了我们来看一下墙壁\n[[CAPTION_BAND]]\nrewu\n生成了我们来看一下墙壁"
+    },
+    {
+      "time": 140,
+      "text": "鼓修效果圈 AI修改\nEA0山\nTAENY\n这两个墙壁\n2U6\n[[CAPTION_BAND]]\nTAENY\n这两个墙壁\n2U6"
+    },
+    {
+      "time": 141,
+      "text": "鼓修效果圈 AI修改\nE産\n11A\nHALODL\n井且整个字闻养系都对的\n[[CAPTION_BAND]]\nHALODL\n井且整个字闻养系都对的"
+    },
+    {
+      "time": 142,
+      "text": "鼓修效果團 AI修改\nKsc/Krr\nHRATW1A\nAAEOKE\n井且整个穿间关系都对的\n[[CAPTION_BAND]]\nAAEOKE\n井且整个穿间关系都对的"
+    },
+    {
+      "time": 143,
+      "text": "鼓修效果圈 AI修改\nKE産\nELB0日\nKHATODDN\n并且整个空间关系都对的二\n20.\n[[CAPTION_BAND]]\nKHATODDN\n并且整个空间关系都对的二\n20."
+    },
+    {
+      "time": 144,
+      "text": "装修效果图 AI 修改\n再次海价\n内次生を\n打产酥汗的这一两个特瓦，请发刚上参乡限这个级产的机服冰、各号牌 4163043（深友）\n一 我们加入这个地毯\n[[CAPTION_BAND]]\n一 我们加入这个地毯",
+      "repair": "每批首帧独立补读"
+    },
+    {
+      "time": 145,
+      "text": "m m\n秋府持\n我们加入这个地毯\n[[CAPTION_BAND]]\n我们加入这个地毯"
+    },
+    {
+      "time": 146,
+      "text": "鼓修效果團 AI 修改\n保仁E地\n3出\nTLHALO DDN\n好现在生成完毕了\n[[CAPTION_BAND]]\nTLHALO DDN\n好现在生成完毕了"
+    },
+    {
+      "time": 147,
+      "text": "鼓修效果園 AI修改\n再\nLN\nTAEoi\n我们来看一下对比一下\n2U.\nBACK\n[[CAPTION_BAND]]\nTAEoi\n我们来看一下对比一下\n2U."
+    },
+    {
+      "time": 148,
+      "text": "装修效果團 AI 修改\nL\nCHAEGSME\n我们来看一下对比一下\n2U円\n[[CAPTION_BAND]]\nCHAEGSME\n我们来看一下对比一下\n2U円"
+    },
+    {
+      "time": 149,
+      "text": "装修效果園 AI修改\nAHALGDE\n两边的这个空间关系\n20.\n[[CAPTION_BAND]]\nAHALGDE\n两边的这个空间关系\n20."
+    },
+    {
+      "time": 150,
+      "text": "装修效果團 AI修改\nHSAtfwr3/（Wak+MAf\nLog\n两边的这个空间关系\n2u\n[[CAPTION_BAND]]\nLog\n两边的这个空间关系\n2u"
+    },
+    {
+      "time": 151,
+      "text": "装修效果園 AI修改\nE三*\nHEAHA\nEO\n并且这些杂物全部都去掉了\n[[CAPTION_BAND]]\n并且这些杂物全部都去掉了"
+    },
+    {
+      "time": 152,
+      "text": "菠修效果園 AI修改\n&& HAEUTTE\n并且这些杂物全部都去掉了\n[[CAPTION_BAND]]\n&& HAEUTTE\n并且这些杂物全部都去掉了"
+    },
+    {
+      "time": 153,
+      "text": "装修效果園 AI 修改\nH\n長H\naEog\n最后呢铺上这个地毯\nL\n[[CAPTION_BAND]]\n長H\naEog\n最后呢铺上这个地毯\nL"
+    },
+    {
+      "time": 154,
+      "text": "台修效到到\nETENR会E\nFAEODD\n最后呢铺上这个地毯\n[[CAPTION_BAND]]\nFAEODD\n最后呢铺上这个地毯"
+    },
+    {
+      "time": 155,
+      "text": "装修效果爵 AI修改\n我们从第一轮这个原图\n20.\n[[CAPTION_BAND]]\n我们从第一轮这个原图\n20."
+    },
+    {
+      "time": 156,
+      "text": "装修效果團 AI修改\nKAALONS\n我们从第一轮这个原图\n20\n[[CAPTION_BAND]]\nKAALONS\n我们从第一轮这个原图\n20"
+    },
+    {
+      "time": 157,
+      "text": "菠修效果圈 AI修改\nC料\nは産利比0ま、仕地三約日上本65「8きRN化非CHECHコ｜Mー2R分5ます\nMHALGDY\n到最后的这个整一不效果图\nN20円1\n[[CAPTION_BAND]]\nMHALGDY\n到最后的这个整一不效果图\nN20円1"
+    },
+    {
+      "time": 158,
+      "text": "SEIEAKGは\nHh代\nRICHALG WEN\n到最后的这个整\n个效果图\n20\n[[CAPTION_BAND]]\nRICHALG WEN\n到最后的这个整\n个效果图\n20"
+    },
+    {
+      "time": 159,
+      "text": "HEIEAMDE\nEtnを\nHALOWE\n到最后的这个整一个效果图\n20\nP0E\nEE\n[[CAPTION_BAND]]\nHALOWE\n到最后的这个整一个效果图\n20"
+    },
+    {
+      "time": 160,
+      "text": "𧲱從效索前\nA你E\nEHNfENKSRDE\n日健R\nLEO\n这是一个完整的案例\n[[CAPTION_BAND]]\nLEO\n这是一个完整的案例"
+    },
+    {
+      "time": 161,
+      "text": "EMEAE\nEER\n《HAEON\n这是一个完整的案例\n2。\n[[CAPTION_BAND]]\n《HAEON\n这是一个完整的案例\n2。"
+    },
+    {
+      "time": 162,
+      "text": "虽然说听起来不难\n[[CAPTION_BAND]]\n虽然说听起来不难"
+    },
+    {
+      "time": 163,
+      "text": "但（产品）做起来啊\n[[CAPTION_BAND]]\n但（产品）做起来啊"
+    },
+    {
+      "time": 164,
+      "text": "但（产品）做起来啊\n[[CAPTION_BAND]]\n但（产品）做起来啊"
+    },
+    {
+      "time": 165,
+      "text": "一点都不容易\n[[CAPTION_BAND]]\n一点都不容易"
+    },
+    {
+      "time": 166,
+      "text": "一开始呢\n[[CAPTION_BAND]]\n一开始呢"
+    },
+    {
+      "time": 167,
+      "text": "我还尝试过双模型来跑\n[[CAPTION_BAND]]\n我还尝试过双模型来跑"
+    },
+    {
+      "time": 168,
+      "text": "我还尝试过双模型来跑\n[[CAPTION_BAND]]\n我还尝试过双模型来跑",
+      "repair": "每批首帧独立补读"
+    },
+    {
+      "time": 169,
+      "text": "先让Gemini3\n[[CAPTION_BAND]]\n先让Gemini3"
+    },
+    {
+      "time": 170,
+      "text": "做自然语义描述的理解\n[[CAPTION_BAND]]\n做自然语义描述的理解"
+    },
+    {
+      "time": 171,
+      "text": "做自然语义描述的理解\n[[CAPTION_BAND]]\n做自然语义描述的理解"
+    },
+    {
+      "time": 172,
+      "text": "转化成提示词\n[[CAPTION_BAND]]\n转化成提示词"
+    },
+    {
+      "time": 173,
+      "text": "给到image2生图模型\n[[CAPTION_BAND]]\n给到image2生图模型"
+    },
+    {
+      "time": 174,
+      "text": "おの、\n给到image 2生图模型\n[[CAPTION_BAND]]\n给到image 2生图模型"
+    },
+    {
+      "time": 175,
+      "text": "こ、\n这个弯路我整整走了一天\n[[CAPTION_BAND]]\n这个弯路我整整走了一天"
+    },
+    {
+      "time": 176,
+      "text": "这个弯路我整整走了一天\n[[CAPTION_BAND]]\n这个弯路我整整走了一天"
+    },
+    {
+      "time": 177,
+      "text": "ッの\n在产品工作流中\n[[CAPTION_BAND]]\n在产品工作流中"
+    },
+    {
+      "time": 178,
+      "text": "のり、\n当你加入一个环节的时候\n[[CAPTION_BAND]]\n当你加入一个环节的时候"
+    },
+    {
+      "time": 179,
+      "text": "当你加入一个环节的时候\n[[CAPTION_BAND]]\n当你加入一个环节的时候"
+    },
+    {
+      "time": 180,
+      "text": "它的不确定性和不稳定性\n[[CAPTION_BAND]]\n它的不确定性和不稳定性"
+    },
+    {
+      "time": 181,
+      "text": "のり\n它的不确定性和不稳定性\n[[CAPTION_BAND]]\n它的不确定性和不稳定性"
+    },
+    {
+      "time": 182,
+      "text": "它的不确定性和不稳定性\n[[CAPTION_BAND]]\n它的不确定性和不稳定性"
+    },
+    {
+      "time": 183,
+      "text": "是指数级的\n[[CAPTION_BAND]]\n是指数级的"
+    },
+    {
+      "time": 184,
+      "text": "尤其呢在生图的场景下\n[[CAPTION_BAND]]\n尤其呢在生图的场景下"
+    },
+    {
+      "time": 185,
+      "text": "尤其呢在生图的场景下\n[[CAPTION_BAND]]\n尤其呢在生图的场景下"
+    },
+    {
+      "time": 186,
+      "text": "好在我掉头了\n[[CAPTION_BAND]]\n好在我掉头了"
+    },
+    {
+      "time": 187,
+      "text": "我改变了方法\n[[CAPTION_BAND]]\n我改变了方法"
+    },
+    {
+      "time": 188,
+      "text": "就跑最短最优的路线\n[[CAPTION_BAND]]\n就跑最短最优的路线"
+    },
+    {
+      "time": 189,
+      "text": "就跑最短最优的路线\n[[CAPTION_BAND]]\n就跑最短最优的路线"
+    },
+    {
+      "time": 190,
+      "text": "现在呢你可以不需要考虑\n[[CAPTION_BAND]]\n现在呢你可以不需要考虑"
+    },
+    {
+      "time": 191,
+      "text": "现在呢你可以不需要考虑\n[[CAPTION_BAND]]\n现在呢你可以不需要考虑"
+    },
+    {
+      "time": 192,
+      "text": "用怎样复杂的提示词了\n[[CAPTION_BAND]]\n用怎样复杂的提示词了",
+      "repair": "每批首帧独立补读"
+    },
+    {
+      "time": 193,
+      "text": "。、\n用怎样复杂的提示词了\n[[CAPTION_BAND]]\n用怎样复杂的提示词了"
+    },
+    {
+      "time": 194,
+      "text": "我已经内置好了\n[[CAPTION_BAND]]\n我已经内置好了"
+    },
+    {
+      "time": 195,
+      "text": "你只需要用自然语言描述\n[[CAPTION_BAND]]\n你只需要用自然语言描述"
+    },
+    {
+      "time": 196,
+      "text": "让AI帮你搞定确定性生图\n[[CAPTION_BAND]]\n让AI帮你搞定确定性生图"
+    },
+    {
+      "time": 197,
+      "text": "让AI帮你搞定确定性生图\n[[CAPTION_BAND]]\n让AI帮你搞定确定性生图"
+    },
+    {
+      "time": 198,
+      "text": "让AI帮你搞定确定性生图\n[[CAPTION_BAND]]\n让AI帮你搞定确定性生图"
+    },
+    {
+      "time": 199,
+      "text": "最后关注我\n[[CAPTION_BAND]]\n最后关注我"
+    },
+    {
+      "time": 200,
+      "text": "最后关注我\n[[CAPTION_BAND]]\n最后关注我"
+    },
+    {
+      "time": 201,
+      "text": "这里是沛总\n[[CAPTION_BAND]]\n这里是沛总"
+    },
+    {
+      "time": 202,
+      "text": "我正在实践Al一人公司\n[[CAPTION_BAND]]\n我正在实践Al一人公司"
+    },
+    {
+      "time": 203,
+      "text": "我正在实践Al一人公司\n[[CAPTION_BAND]]\n我正在实践Al一人公司"
+    },
+    {
+      "time": 204,
+      "text": "从O到1分享AI知识\n[[CAPTION_BAND]]\n从O到1分享AI知识"
+    },
+    {
+      "time": 205,
+      "text": "从O到1分享AI知识\n[[CAPTION_BAND]]\n从O到1分享AI知识"
+    },
+    {
+      "time": 206,
+      "text": "聊业务流、工作流\n[[CAPTION_BAND]]\n聊业务流、工作流"
+    },
+    {
+      "time": 207,
+      "text": "聊业务流、工作流\n[[CAPTION_BAND]]\n聊业务流、工作流"
+    },
+    {
+      "time": 208,
+      "text": "聊AI解决方案\n[[CAPTION_BAND]]\n聊AI解决方案"
+    }
+  ],
+  "errors": 0,
+  "elapsed_seconds": 16.6
+}

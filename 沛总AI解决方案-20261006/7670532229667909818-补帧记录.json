@@ -1,0 +1,13 @@
+{
+  "missing_times": [
+    0,
+    24,
+    48
+  ],
+  "temporary_frames": [
+    "/Volumes/EXTERNAL/FDE自媒体研究/沛总AI解决方案-20261006/临时帧/fill-2pvl9f7e/frame-000001.jpg",
+    "/Volumes/EXTERNAL/FDE自媒体研究/沛总AI解决方案-20261006/临时帧/fill-2pvl9f7e/frame-000002.jpg",
+    "/Volumes/EXTERNAL/FDE自媒体研究/沛总AI解决方案-20261006/临时帧/fill-2pvl9f7e/frame-000003.jpg"
+  ],
+  "reason": "多图片OCR输出首帧无分隔头，补读每批首帧"
+}
